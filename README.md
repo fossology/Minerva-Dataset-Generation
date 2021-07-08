@@ -1,2 +1,2 @@
 # SPDX-Dataset-Generation
-Involves dataset generation for GSoC21
+Involves dataset generation.
