@@ -3,7 +3,7 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/50830709/125133165-0e014000-e123-11eb-9890-3510887deaac.JPG" alt="project-overview" width="800"/>
+<img src="https://user-images.githubusercontent.com/50830709/125133165-0e014000-e123-11eb-9890-3510887deaac.JPG" alt="project-overview" width="700"/>
 
 
 
