@@ -1,7 +1,5 @@
 import requests
-import pandas as pd
 import json
-import re
 import os
 
 def extract_spdx():
