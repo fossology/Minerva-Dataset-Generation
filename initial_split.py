@@ -1,5 +1,6 @@
 import re
 import os
+import argparse
 
 def splitter(file,dirname):
     
@@ -43,4 +44,11 @@ def main(path):
             splitter(file,dirname)    
 
 if __name__ == "__main__":
-    main(path)
+    parser = argparse.ArgumentParser()
+    parser.add_argument('path', help='Pass a directory to find original licenses')
+    args = parser.parse_args()
+    path = args.path
+    if path.isdir():
+        main(path)
+    else:
+        print("Invalid directory")
