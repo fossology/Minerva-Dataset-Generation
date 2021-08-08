@@ -1,0 +1,1 @@
+4. Ensure everyone who gets a copy of this software from you, in\r\n   source code or any other form, gets the text of this license\r\n   and the contributor and source code lines above.

@@ -1,0 +1,1 @@
+## Open Data Commons Open Database License (ODbL) ### Preamble The Open Database License (ODbL) is a license agreement intended to allow users to freely share, modify, and use this Database while maintaining this same freedom for others Many databases are covered by copyright, and therefore this document licenses these rights

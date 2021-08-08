@@ -1,0 +1,1 @@
+This does not affect your ownership of the derived work itself, and the intent is to assure proper credit for the authors of gd, not to interfere with your productive use of gd.\xc2\xa0 If you have questions, ask.\xc2\xa0 \xe2\x80\x9cDerived works\xe2\x80\x9d includes all programs that utilize the library.\xc2\xa0 Credit must be given in user-accessible documentation.

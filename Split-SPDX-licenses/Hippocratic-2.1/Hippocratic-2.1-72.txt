@@ -1,0 +1,1 @@
+[SOFTWARE NAME] Copyright (YEAR) (COPYRIGHT HOLDER(S)/AUTHOR(S))(\xe2\x80\x9cLicensor\xe2\x80\x9d) Hippocratic License Version Number: 2.1. Purpose

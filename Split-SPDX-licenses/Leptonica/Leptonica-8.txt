@@ -1,0 +1,1 @@
+(1) the origin of this source code must not be misrepresented;\r\n(2) modified versions must be plainly marked as such; and\r\n(3) this notice may not be removed or altered from any source or modified source distribution.\r\n

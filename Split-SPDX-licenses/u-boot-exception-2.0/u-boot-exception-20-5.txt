@@ -1,0 +1,1 @@
+The header files "include/image.h" and "arch/*/include/asm/u-boot.h" define interfaces to U-Boot. Including these (unmodified) header files in another file is considered normal use of U-Boot, and does *not* fall under the heading of "derived work".\r\n-- Wolfgang Denk\r\n

@@ -1,0 +1,1 @@
+Special exception for linking OpenVPN with OpenSSL: In addition, as a special exception, OpenVPN Technologies, Inc

@@ -1,0 +1,1 @@
+Permission is hereby granted, without written agreement and without\r\nlicense or royalty fees, to use, copy, modify, and distribute this\r\nsoftware and its documentation for any purpose, provided that the\r\nabove copyright notice and the following two paragraphs appear in\r\nall copies of this software.

@@ -1,0 +1,1 @@
+Code derived from the document "Report on the Programming Language\r\nHaskell 2010", is distributed under the following license:

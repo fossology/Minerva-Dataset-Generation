@@ -1,0 +1,1 @@
+psfrag.dtx\r\nCopyright (C) 1996 Craig Barratt, Michael C. Grant, and David Carlisle.\r\nAll rights are reserved.

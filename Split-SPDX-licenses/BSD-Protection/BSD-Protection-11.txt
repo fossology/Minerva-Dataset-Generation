@@ -1,0 +1,1 @@
+BSD Protection License February 2002 Preamble -------- The Berkeley Software Distribution ("BSD") license has proven very effective over the years at allowing for a wide spread of work throughout both commercial and non-commercial products

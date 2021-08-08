@@ -1,0 +1,1 @@
+Zimbra Public License, Version 1.4 (ZPL) This Zimbra Public License (this \xe2\x80\x9cAgreement\xe2\x80\x9d) is a legal agreement that describes the terms under which Zimbra, Inc., a Texas corporation (\xe2\x80\x9cZimbra\xe2\x80\x9d) will provide software to you via download or otherwise (\xe2\x80\x9cSoftware\xe2\x80\x9d)

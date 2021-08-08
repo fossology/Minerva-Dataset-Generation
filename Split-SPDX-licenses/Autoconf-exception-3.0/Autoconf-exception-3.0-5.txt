@@ -1,0 +1,1 @@
+AUTOCONF CONFIGURE SCRIPT EXCEPTION Version 3.0, 18 August 2009 Copyright \xa9 2009 Free Software Foundation, Inc

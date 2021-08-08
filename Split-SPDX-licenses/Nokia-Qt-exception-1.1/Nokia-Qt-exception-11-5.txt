@@ -1,0 +1,1 @@
+     (i) the header files of the Library have not been modified; and\r\n     (ii) the incorporated material is limited to numerical parameters, data structure layouts, accessors, macros, inline functions and templates; and\r\n     (iii) you comply with the terms of Section 6 of the GNU Lesser General Public License version 2.1.

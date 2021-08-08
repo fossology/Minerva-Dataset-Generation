@@ -1,0 +1,1 @@
+Code derived from the document "Report on the Programming Language Haskell 2010", is distributed under the following license: Copyright (c) 2010 Simon Marlow The authors intend this Report to belong to the entire Haskell community, and so we grant permission to copy and distribute it for any purpose, provided that it is reproduced in its entirety, including this Notice

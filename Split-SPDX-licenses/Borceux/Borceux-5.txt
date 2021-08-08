@@ -1,0 +1,1 @@
+Copyright 1993 Francis Borceux\r\nYou may freely use, modify, and/or distribute each of the files in this package without limitation.  The package consists of the following files:

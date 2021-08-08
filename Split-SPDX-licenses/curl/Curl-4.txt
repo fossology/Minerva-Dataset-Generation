@@ -1,0 +1,1 @@
+Copyright (c) 1996 - 2015, Daniel Stenberg, <daniel@haxx.se>.\r\nAll rights reserved.

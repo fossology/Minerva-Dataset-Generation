@@ -1,0 +1,1 @@
+As an exception, if you use this Software to compile your source code and\r\nportions of this Software are embedded into the binary product as a result,\r\nyou may redistribute such product without providing attribution as would\r\notherwise be required by Sections 4(a), 4(b) and 4(d) of the License.\r\n

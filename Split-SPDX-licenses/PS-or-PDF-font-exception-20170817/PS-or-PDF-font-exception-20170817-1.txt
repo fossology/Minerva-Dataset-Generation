@@ -1,0 +1,1 @@
+The font and related files in this directory are distributed under the\r\nGNU AFFERO GENERAL PUBLIC LICENSE Version 3 (see the file COPYING), with\r\nthe following exemption:

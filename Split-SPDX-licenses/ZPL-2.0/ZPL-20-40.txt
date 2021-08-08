@@ -1,0 +1,1 @@
+This software consists of contributions made by Zope Corporation and many individuals on behalf of Zope Corporation.  Specific attributions are listed in the accompanying credits file.\r\n

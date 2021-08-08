@@ -1,0 +1,1 @@
+COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0 1 Definitions. 1.1 \xe2\x80\x9cContributor\xe2\x80\x9d means each individual or entity that creates or contributes to the creation of Modifications. 1.2

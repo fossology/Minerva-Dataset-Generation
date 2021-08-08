@@ -1,0 +1,1 @@
+   As an exception, if, as a result of your compiling your source code, portions\r\n   of this Software are embedded into an Object form of such source code, you\r\n   may redistribute such embedded portions in such Object form without complying\r\n   with the conditions of Sections 4(a), 4(b) and 4(d) of the License.

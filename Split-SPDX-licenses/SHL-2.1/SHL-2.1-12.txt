@@ -1,0 +1,1 @@
+SOLDERPAD HARDWARE LICENSE VERSION 2.1 This license operates as a wraparound license to the Apache License Version 2.0 (the "Apache License") and incorporates the terms and conditions of the Apache License (which can be found here: http://apache.org/licenses/LICENSE-2.0), with the following additions and modifications

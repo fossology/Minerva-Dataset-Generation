@@ -1,0 +1,1 @@
+     (i) numerical parameters;\r\n     (ii) data structure layouts;\r\n     (iii) accessors; and\r\n     (iv) small macros, templates and inline functions of five lines or less in length.

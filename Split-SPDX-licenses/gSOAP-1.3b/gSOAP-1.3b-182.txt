@@ -1,0 +1,1 @@
+gSOAP Public License Version 1.3b The gSOAP public license is derived from the Mozilla Public License (MPL1.1)

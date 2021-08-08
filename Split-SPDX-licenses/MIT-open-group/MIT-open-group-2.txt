@@ -1,0 +1,1 @@
+Permission to use, copy, modify, distribute, and sell this software and\r\nits documentation for any purpose is hereby granted without fee,\r\nprovided that the above copyright notice appear in all copies and that\r\nboth that copyright notice and this permission notice appear in\r\nsupporting documentation.

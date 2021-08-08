@@ -1,0 +1,1 @@
+Common Documentation License Version 1.0 - February 16, 2001 Copyright \xc2\xa9 2001 Apple Computer, Inc. Permission is granted to copy and distribute verbatim copies of this License, but changing or adding to it in any way is not permitted. Please read this License carefully before downloading or using this material

@@ -1,0 +1,1 @@
+EGENIX.COM PUBLIC LICENSE AGREEMENT Version 1.1.0 This license agreement is based on the Python CNRI License Agreement, a widely accepted open- source license. 1 Introduction This "License Agreement" is between eGenix.com Software, Skills and Services GmbH ("eGenix.com"), having an office at Pastor-Loeh-Str

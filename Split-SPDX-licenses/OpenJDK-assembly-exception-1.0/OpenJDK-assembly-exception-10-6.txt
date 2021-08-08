@@ -1,0 +1,1 @@
+Linking this OpenJDK Code statically or dynamically with\r\nother code is making a combined work based on this\r\nlibrary. Thus, the terms and conditions of GPL2 cover the\r\nwhole combination.

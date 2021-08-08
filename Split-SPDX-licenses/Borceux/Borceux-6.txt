@@ -1,0 +1,1 @@
+README\r\ncompatibility/OldDiagram\r\ncompatibility/OldMaxiDiagram\r\ncompatibility/OldMicroDiagram\r\ncompatibility/OldMiniDiagram\r\ncompatibility/OldMultipleArrows\r\ndiagram/Diagram\r\ndiagram/MaxiDiagram\r\ndiagram/MicroDiagram\r\ndiagram/MiniDiagram\r\ndiagram/MultipleArrows\r\nuser-guides/Diagram_Mode_d_Emploi\r\nuser-guides/Diagram_Read_Me

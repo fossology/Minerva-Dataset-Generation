@@ -1,0 +1,1 @@
+This software is provided \xe2\x80\x9cAS IS.\xe2\x80\x9d\xc2\xa0 The copyright holders disclaim all warranties, either express or implied, including but not limited to implied warranties of merchantability and fitness for a particular purpose, with respect to this code and accompanying documentation.
