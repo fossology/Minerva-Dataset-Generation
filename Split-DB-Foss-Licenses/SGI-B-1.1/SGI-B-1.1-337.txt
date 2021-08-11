@@ -1,0 +1,1 @@
+      1.3 "Hardware" means any physical device that accepts input, processes input, stores the results of processing, and/or provides output.

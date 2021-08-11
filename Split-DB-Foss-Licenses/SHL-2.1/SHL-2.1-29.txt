@@ -1,0 +1,1 @@
+   1. Terminology in the Apache License is supplemented or modified as follows:

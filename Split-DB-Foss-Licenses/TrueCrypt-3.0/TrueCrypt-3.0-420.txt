@@ -1,0 +1,1 @@
+    b. The following phrases must be removed from Your Product and from any associated materials, except the text of this License: "A TrueCrypt Foundation Release", "Released by TrueCrypt Foundation", "This is a TrueCrypt Foundation release."

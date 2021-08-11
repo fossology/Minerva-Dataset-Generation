@@ -1,0 +1,1 @@
+1.5 "Licensed Products" means the software product MindTerm in object \r\ncode form only. (Use of source code is subject to the conditions set \r\nforth in the MindTerm Public Source license agreement.) 

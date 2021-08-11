@@ -1,0 +1,1 @@
+   A "linguistic resource" means a collection of data about language prepared so as to be used with application programs.

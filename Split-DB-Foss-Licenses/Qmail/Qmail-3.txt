@@ -1,0 +1,1 @@
+You may distribute copies of qmail If you want to distribute modified versions of qmail (including ports, no matter how minor the changes are) you'll have to get my approval

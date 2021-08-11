@@ -1,0 +1,1 @@
+Neither the name of the HSQL Development Group nor the names of its\r\ncontributors may be used to endorse or promote products derived from this\r\nsoftware without specific prior written permission.

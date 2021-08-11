@@ -1,0 +1,1 @@
+one example below:\r\n/* \r\n * Copyright (C) 2007  Olli Salonen &lt;oasalonen@gmail.com&gt;\r\n * see btnx.c for detailed license information\r\n * \r\n * revoco.c is under a different copyright. See that file for details.\r\n * \r\n */

@@ -1,0 +1,1 @@
+Redistributions of source code of any software must retain the above copyright notice and all terms of this license as part of the code.

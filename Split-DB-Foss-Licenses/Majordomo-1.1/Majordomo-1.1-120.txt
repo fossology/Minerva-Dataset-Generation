@@ -1,0 +1,1 @@
+     6.  TERM.  The license granted hereunder is effective until\r\nterminated.  This license shall automatically terminate without notice\r\nif you breach any of the provisions hereof.  You may terminate it at\r\nany time by destroying Majordomo and its associated documentation.

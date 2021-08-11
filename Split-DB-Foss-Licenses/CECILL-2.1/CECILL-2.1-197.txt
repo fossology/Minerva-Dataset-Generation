@@ -1,0 +1,1 @@
+      GNU Affero GPL: means the GNU Affero General Public License version 3 or any subsequent version, as published by the Free Software Foundation Inc.

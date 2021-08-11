@@ -1,0 +1,1 @@
+The following is a a non-exhaustive list of libraries and packages which are covered by the FLOSS License Exception. Please note that appendix is merely provided as an additional service to specific FLOSS projects who wish to simplify licensing information for their users. Compliance with one of the licenses noted under the "FLOSS license list" section remains a prerequisite.

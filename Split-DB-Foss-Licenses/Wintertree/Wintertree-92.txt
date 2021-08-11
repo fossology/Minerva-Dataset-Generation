@@ -1,0 +1,1 @@
+1.3 "Application Programs" shall mean and include one or more software programs created by the Licensee which use the Wintertree Thesaurus Engine.

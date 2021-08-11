@@ -1,0 +1,1 @@
+   - You may distribute modified versions of files with filename extension `.cfg' (configuration files) with their original names. The Program may (and usually will) specify the range of commands that are allowed in a particular configuration file.

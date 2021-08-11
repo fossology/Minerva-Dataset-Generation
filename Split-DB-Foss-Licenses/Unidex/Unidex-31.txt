@@ -1,0 +1,1 @@
+     1. You must include this COPYRIGHT NOTICE and LICENSE\r\n        in all copies or substantial portions of the DTD.

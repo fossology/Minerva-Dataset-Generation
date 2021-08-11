@@ -1,0 +1,1 @@
+insert GPL v3 text here AUTOCONF CONFIGURE SCRIPT EXCEPTION Version 3.0, 18 August 2009 Copyright \xc2\xa9 2009 Free Software Foundation, Inc

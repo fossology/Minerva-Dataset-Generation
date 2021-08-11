@@ -1,0 +1,1 @@
+`Base Interpreter' A program or process that is normally needed for running or interpreting a part or the whole of the Work.

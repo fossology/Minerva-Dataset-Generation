@@ -1,0 +1,1 @@
+Note that it is possible for a library to be covered by the ordinary General Public License rather than by this special one.

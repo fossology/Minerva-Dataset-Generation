@@ -1,0 +1,1 @@
+Open Hardware is a thing - a physical artifact, either electrical or mechanical - whose design information is available to, and usable by, the public in a way that allows anyone to make, modify, distribute, and use that thing. In this preface, design information is called "documentation" and things created from it are called "products."

@@ -1,0 +1,1 @@
+   (ii) the incorporated material is limited to numerical parameters, data structure layouts, accessors, macros, inline functions and templates; and

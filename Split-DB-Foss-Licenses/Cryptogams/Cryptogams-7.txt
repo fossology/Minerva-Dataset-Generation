@@ -1,0 +1,1 @@
+      *\tNeither the name of the CRYPTOGAMS nor the names of its\r\n\tcopyright holder and contributors may be used to endorse or\r\n\tpromote products derived from this software without specific\r\n\tprior written permission.

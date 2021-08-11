@@ -1,0 +1,1 @@
+      Dokumentation: Die Beschreibung des Aufbaus und/oder der Struktur der Programmierung und/oder der Funktionalit\xc3\xa4ten des Programms, unabh\xc3\xa4ngig davon, ob sie im Source Code oder gesondert vorgenommen wird.

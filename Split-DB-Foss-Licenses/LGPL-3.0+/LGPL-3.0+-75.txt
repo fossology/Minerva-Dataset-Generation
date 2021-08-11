@@ -1,0 +1,1 @@
+a) Give prominent notice with each copy of the object code that the\r\nLibrary is used in it and that the Library and its use are\r\ncovered by this License.

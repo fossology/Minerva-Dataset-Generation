@@ -1,0 +1,1 @@
+9.5\tAny Program, Software, or modification thereof copied or distributed by You, if it contains any key-generation or selection technique, must not employ any Substandard Key-Selection Technique.

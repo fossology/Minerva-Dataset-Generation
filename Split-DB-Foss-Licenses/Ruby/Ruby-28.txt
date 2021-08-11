@@ -1,0 +1,1 @@
+   a) distribute the binaries and library files of the software, together with instructions (in the manual page or equivalent) on where to get the original distribution.

@@ -1,0 +1,1 @@
+It may be particularly suitable if your software is TeX related (such as a LaTeX package file) but it may be used for any software, even if it is unrelated to TeX.

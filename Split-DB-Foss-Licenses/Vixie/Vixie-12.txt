@@ -1,0 +1,1 @@
+Send bug reports, bug fixes, enhancements, requests, flames, etc., and I'll try to keep a version up to date. I can be reached as follows:\r\nPaul Vixie\r\n<paul@vix.com>\r\nuunet!decwrl!vixie!paul

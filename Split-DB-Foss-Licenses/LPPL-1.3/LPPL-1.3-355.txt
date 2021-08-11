@@ -1,0 +1,1 @@
+To prevent the Maintenance section of LPPL from allowing someone else\r\nto become the Current Maintainer without your agreement, you could\r\nchange "maintained" above into "author-maintained".

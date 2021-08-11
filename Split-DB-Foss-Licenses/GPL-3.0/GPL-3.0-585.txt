@@ -1,0 +1,1 @@
+    <program>  Copyright (C) <year>  <name of author>\r\n    This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.\r\n    This is free software, and you are welcome to redistribute it\r\n    under certain conditions; type `show c' for details.

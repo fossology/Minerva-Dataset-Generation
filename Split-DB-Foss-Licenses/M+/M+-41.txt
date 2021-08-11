@@ -1,0 +1,1 @@
+In addition, proportional M+ P Type-1 and M+ P Type-2 fonts were completed with Latin Extended-B, Latin Extended Additional, and Windows Glyph List 4 (WGL4). And many Greek, Cyrillic, IPA Extensions glyphs, and symbols were expanded. Those additional glyphs are included in M+ C provisionality.

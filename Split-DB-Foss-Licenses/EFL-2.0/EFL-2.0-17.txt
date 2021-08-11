@@ -1,0 +1,1 @@
+      - any distribution of this package, whether modified or not, includes this license text.

@@ -1,0 +1,1 @@
+   - Providing the source code, build scripts, installation scripts, and interface definitions in a form that is easy to get and best to modify;

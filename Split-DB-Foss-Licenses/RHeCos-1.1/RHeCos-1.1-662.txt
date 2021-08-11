@@ -1,0 +1,1 @@
+   Red Hat and logo - This License does not grant any rights to use the trademark Red Hat, the Red Hat logo, eCos logo, even if such marks are included in the Original Code. You may contact Red Hat for permission to display the Red Hat and eCos marks in either the documentation or the Executable version beyond that required in Exhibit B.

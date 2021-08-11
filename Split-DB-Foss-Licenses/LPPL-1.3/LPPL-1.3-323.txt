@@ -1,0 +1,1 @@
+7.  If you are not the Current Maintainer of the Work, you may\r\ndistribute a Compiled Work generated from a Derived Work, as long as\r\nthe Derived Work is distributed to all recipients of the Compiled\r\nWork, and as long as the conditions of Clause 6, above, are met with\r\nregard to the Derived Work.

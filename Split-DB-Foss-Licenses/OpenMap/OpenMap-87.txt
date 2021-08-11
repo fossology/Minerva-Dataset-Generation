@@ -1,0 +1,1 @@
+    b) accompany the distribution with the machine-readable\r\n       source code with your modifications.

@@ -1,0 +1,1 @@
+   If you distribute the Program in a form to which the recipient can make Modifications (e.g. source code), the terms of this license apply to use by recipient. In addition, each source and data file of the Program and any Modification you distribute must contain the following notice:

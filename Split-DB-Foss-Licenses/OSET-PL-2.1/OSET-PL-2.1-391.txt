@@ -1,0 +1,1 @@
+      If You create software not governed by this License, and You want to create a new license for such software, You may create and use a modified version of this License if You rename the license and remove any references to the name of the license steward (except to note that such modified license differs from this License).

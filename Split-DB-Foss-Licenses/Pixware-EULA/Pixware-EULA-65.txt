@@ -1,0 +1,1 @@
+Licensee may distribute a copy of the binary class library and binary dictionary files, in original or modified form, along with any application, developed by Licensee, which integrates XMLmind Spell Checker. Licensee may not distribute any other part of the Software, in either modified or original form.

@@ -1,0 +1,1 @@
+(Based on the BISON general public license, copyright 1988 Richard M. Stallman)

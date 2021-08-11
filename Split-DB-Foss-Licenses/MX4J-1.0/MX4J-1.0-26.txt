@@ -1,0 +1,1 @@
+         4. The name "MX4J" must not be used to endorse or promote\r\n            products derived from this software without prior written\r\n            permission.\r\n            For written permission, please contact\r\n            biorn_steedom [at] users [dot] sourceforge [dot] net

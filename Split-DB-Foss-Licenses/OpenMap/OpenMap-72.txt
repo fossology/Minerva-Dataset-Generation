@@ -1,0 +1,1 @@
+ "Software" shall mean OpenMap and the Derivative Works created\r\n by Licensee and the collection of files distributed by the\r\n Licensee with OpenMap, and the collection of files created\r\n through textual modifications.

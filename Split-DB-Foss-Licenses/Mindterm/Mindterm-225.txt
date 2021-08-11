@@ -1,0 +1,1 @@
+Licensee is allowed to use the MindTerm source code according to the \r\nMindTerm Public Source license agreement. Licensee is allowed to use \r\nany derivative works of the Licensed Products for its own internal \r\ncomputing requirements according to the terms and conditions of this \r\nAgreement. 

@@ -1,0 +1,1 @@
+   Red Hat may license the Source Code of Red Hat Branded Code without Red Hat Branded Code becoming subject to the terms of this License, and may license Red Hat Branded Code on different terms from those contained in this License. Contact Red Hat for details of alternate licensing terms available.

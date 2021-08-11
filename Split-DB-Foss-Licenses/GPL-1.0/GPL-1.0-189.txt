@@ -1,0 +1,1 @@
+  Yoyodyne, Inc., hereby disclaims all copyright interest in the\r\n  program `Gnomovision' (a program to direct compilers to make passes\r\n  at assemblers) written by James Hacker.

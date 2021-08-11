@@ -1,0 +1,1 @@
+   v) if you have modified the ATI Linux Code, such  modifications  will  be\r\n   made publicly available and are licensed under the  same  terms  provided\r\n   herein to ATI or any  other  third  party  without  further  restriction,\r\n   royalty or any other license requirement;

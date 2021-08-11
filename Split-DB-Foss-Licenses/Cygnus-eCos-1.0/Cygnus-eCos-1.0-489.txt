@@ -1,0 +1,1 @@
+     1.13. "Cygnus's Branded Code" is code that Cygnus\r\nSolutions ("Cygnus") distributes and/or permits others to\r\ndistribute under different terms than the Cygnus eCos Public\r\nLicense. Cygnus's Branded Code may contain part or all of\r\nthe Covered Code.

@@ -1,0 +1,1 @@
+         a) is only combined with Covered Source in such a way that it interfaces with the Covered Source using a documented interface which is described in the Covered Source; and

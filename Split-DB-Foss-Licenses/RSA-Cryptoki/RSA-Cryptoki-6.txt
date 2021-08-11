@@ -1,0 +1,1 @@
+DISCLAIMER Regarding the header / include files: License to copy and use this software is granted provided that it is identified as "RSA Security Inc

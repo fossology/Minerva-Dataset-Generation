@@ -1,0 +1,1 @@
+      2.4 Modifications License and API Compliance. Modifications are only licensed under Section 2.1(i) to the extent such Modifications are fully compliant with any API as may be identified in Additional Notice Provisions as appear in the Original Code.

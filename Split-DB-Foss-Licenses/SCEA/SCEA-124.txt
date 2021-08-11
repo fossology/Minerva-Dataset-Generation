@@ -1,0 +1,1 @@
+   "Object Code" or "Object Form" shall mean any form that results from translation or transformation of Source Code, including but not limited to compiled object code or conversions to other forms intended for machine execution.

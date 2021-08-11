@@ -1,0 +1,1 @@
+      Nothing in this License shall be interpreted to\r\nprohibit Cygnus from licensing under different terms than\r\nthis License any code which Cygnus otherwise would have a\r\nright to license.

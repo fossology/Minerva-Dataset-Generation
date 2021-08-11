@@ -1,0 +1,1 @@
+   * Copyright (c) 1995-2018 The PNG Reference Library Authors.

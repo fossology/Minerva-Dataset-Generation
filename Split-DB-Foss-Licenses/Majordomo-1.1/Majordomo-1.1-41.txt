@@ -1,0 +1,1 @@
+MAJORDOMO LICENSE AGREEMENT Version 1.1 18 May 96 Great Circle Associates (GCA) is the original developer of Majordomo, a package for managing Internet mailing lists

@@ -1,0 +1,1 @@
+      Internal Module: means any or all Module, connected to the Software so that they both execute in the same address space.

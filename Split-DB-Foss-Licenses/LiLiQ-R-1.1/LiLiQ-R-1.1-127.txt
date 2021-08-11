@@ -1,0 +1,1 @@
+      10\xc2\xa0 GNU Lesser General Public License Version 2.1 (GNU LGPLv2.1)

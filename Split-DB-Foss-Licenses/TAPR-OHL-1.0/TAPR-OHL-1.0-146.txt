@@ -1,0 +1,1 @@
+      * Include a copyright notice in each file and on printed circuit board artwork.

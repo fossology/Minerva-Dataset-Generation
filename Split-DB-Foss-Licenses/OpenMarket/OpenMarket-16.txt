@@ -1,0 +1,1 @@
+This FastCGI application library source and object code (the\r\n"Software") and its documentation (the "Documentation") are\r\ncopyrighted by Open Market, Inc ("Open Market").  The following terms\r\napply to all files associated with the Software and Documentation\r\nunless explicitly disclaimed in individual files.

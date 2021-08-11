@@ -1,0 +1,1 @@
+   a. Document any Modifications You make to the Licensed Software including the nature of the change, the authors of the change, and the date of the change. This documentation must appear both in the Source Code and in a text file titled "CHANGES" distributed with the Licensed Software and Your Extensions.

@@ -1,0 +1,1 @@
+As this license is not currently OSI or FSF approved, the Licensor permits any Work licensed under this License, at the option of the Licensee, to be treated as licensed under the Apache License Version 2.0 (which is so approved).

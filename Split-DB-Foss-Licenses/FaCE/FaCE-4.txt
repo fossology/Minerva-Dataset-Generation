@@ -1,0 +1,1 @@
+== == Copyright and Licensing Information == $Id: License.txt 94670 2011-10-07 09:56:15Z johnnyw $ == ACE(tm) and TAO(tm) are copyrighted by Dr Douglas C Schmidt and the Center for Distributed Object Computing ('DOC' group) at Washington University, Copyright (C) 1993 - 2002, all rights reserved

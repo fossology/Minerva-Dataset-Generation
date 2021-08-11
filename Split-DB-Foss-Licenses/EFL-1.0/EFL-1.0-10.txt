@@ -1,0 +1,1 @@
+   - if the binary program depends on a modified version of this package, you must publicly release the modified version of this package

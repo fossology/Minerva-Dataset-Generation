@@ -1,0 +1,1 @@
+   "Derivative Work" means a derivative work, as defined under applicable copyright law, formed entirely from the Program and one or more FOSS Applications.

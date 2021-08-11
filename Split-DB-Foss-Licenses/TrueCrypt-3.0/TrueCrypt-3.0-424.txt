@@ -1,0 +1,1 @@
+    The source code of Your Product must not be deliberately obfuscated and it must not be in an intermediate form (e.g., the output of a preprocessor). Source code means the preferred form in which a programmer would usually modify the program.

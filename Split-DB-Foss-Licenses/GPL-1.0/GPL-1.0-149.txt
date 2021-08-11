@@ -1,0 +1,1 @@
+  For example, if you distribute copies of a such a program, whether\r\ngratis or for a fee, you must give the recipients all the rights that\r\nyou have.  You must make sure that they, too, receive or can get the\r\nsource code.  And you must tell them their rights.

@@ -1,0 +1,1 @@
+   "GPL" means a version of the GNU General Public License or the GNU Affero General Public License.

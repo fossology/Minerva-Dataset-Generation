@@ -1,0 +1,1 @@
+This software consists of voluntary contributions made by many\r\nindividuals on behalf of the PHP Group.

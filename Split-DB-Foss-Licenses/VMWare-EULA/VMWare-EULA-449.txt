@@ -1,0 +1,1 @@
+1.6 "Sample Programs" means sample client management programs or scripts that may be distributed with the Software.

@@ -1,0 +1,1 @@
+         (i) include all portions and elements of the Frameworx Code Base required to build the Source Code of such Downstream Distribution into a fully functional machine-executable system, or additional build scripts or comparable software necessary and sufficient for such purposes;

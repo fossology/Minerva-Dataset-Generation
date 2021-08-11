@@ -1,0 +1,1 @@
+0.11\tStrong Cryptography: "Strong Cryptography" shall mean cryptography no less secure than (for example, and without limitation) a 2048-bit minimum key size for RSA encryption, 1024-bit minimum key size for Diffie-Hellman (El Gamal), or a 256-bit minimum key size for AES and similar symmetric ciphers.

@@ -1,0 +1,1 @@
+      1.7 "Licensed Patents" means patent claims Licensable by SGI that are infringed by the use or sale of Original Code or any Modifications provided by SGI, or any combination thereof.

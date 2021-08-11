@@ -1,0 +1,1 @@
+As used herein, "this License" refers to version 3 of the GNU Lesser\r\nGeneral Public License, and the "GNU GPL" refers to version 3 of the GNU\r\nGeneral Public License.

@@ -1,0 +1,1 @@
+Majordomo is distributed in source code form, with almost all\r\nmodules written in Perl (there is one small C program), and runs\r\non many UNIX platforms.  Majordomo is not a supported product of\r\nGreat Circle Associates, but is made available for use on the following\r\nbasis.

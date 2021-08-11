@@ -1,0 +1,1 @@
+   3. The names "Zend" and "Zend Engine" must not be used to endorse or promote products derived from this software without prior permission from Zend Technologies Ltd. For written permission, please contact license@zend.com.

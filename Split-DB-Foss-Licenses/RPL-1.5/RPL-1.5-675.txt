@@ -1,0 +1,1 @@
+In short, this license grew out of a desire to close loopholes in previous open source licenses, loopholes that allowed parties to acquire open source software and derive financial benefit from it without having to release their improvements or derivatives to the community which enabled them. This occurred any time an entity did not release their application to a "third party".

@@ -1,0 +1,1 @@
+1.2.2 Thesaurus files (*.tth and *.cth) and other files located in the "runtime" directory of the Software Development Kit.

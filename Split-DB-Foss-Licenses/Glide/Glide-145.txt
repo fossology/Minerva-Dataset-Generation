@@ -1,0 +1,1 @@
+      2.1 This License applies to any program (or other "work") which contains a notice placed by the copyright holder saying it may be distributed under the terms of this 3dfx GLIDE Source Code General Public License.

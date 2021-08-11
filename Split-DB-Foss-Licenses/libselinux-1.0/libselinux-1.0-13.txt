@@ -1,0 +1,1 @@
+This library (libselinux) is public domain software, i.e not copyrighted. Warranty Exclusion ------------------ You agree that this software is a non-commercially developed program that may contain "bugs" (as that term is used in the industry) and that it may not function as intended The software is licensed "as is"

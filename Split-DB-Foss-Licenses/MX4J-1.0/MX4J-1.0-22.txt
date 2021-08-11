@@ -1,0 +1,1 @@
+         Redistribution and use in source and binary forms, with or without\r\n         modification, are permitted provided that the following conditions\r\n         are met:

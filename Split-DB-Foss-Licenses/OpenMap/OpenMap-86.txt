@@ -1,0 +1,1 @@
+    a) distribute an OpenMap version of the executables and\r\n       library files, together with instructions (in the manual\r\n       page or equivalent) on where to get OpenMap.

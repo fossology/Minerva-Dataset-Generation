@@ -1,0 +1,1 @@
+If you do not want the Maintenance section of LPPL to apply to your Work, change "maintained" above into "author-maintained". However, we recommend that you use "maintained" as the Maintenance section was added in order to ensure that your Work remains useful to the community even when you can no longer maintain and support it yourself.

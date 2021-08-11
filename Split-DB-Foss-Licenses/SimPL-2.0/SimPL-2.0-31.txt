@@ -1,0 +1,1 @@
+   - Licensing it to everyone under SimPL, or substantially similar terms (such as GPL 2.0), without adding further restrictions to the rights provided;

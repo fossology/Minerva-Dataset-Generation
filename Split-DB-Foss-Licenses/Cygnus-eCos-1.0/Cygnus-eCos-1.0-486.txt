@@ -1,0 +1,1 @@
+     1.10. "Original Code" means Source Code of computer\r\nsoftware code which is described in the Source Code notice\r\nrequired by Exhibit A as Original Code, and which, at the\r\ntime of its release under this License is not already\r\nCovered Code governed by this License.

@@ -1,0 +1,1 @@
+   5. Products derived from this software may not be called "openSEAL", nor may "openSEAL" appear in their name, without prior written permission of Entessa.

@@ -1,0 +1,1 @@
+Copyright 1999 2002-03 LaTeX3 Project\r\n    Everyone is allowed to distribute verbatim copies of this\r\n    license document, but modification of it is not allowed.

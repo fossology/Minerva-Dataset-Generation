@@ -1,0 +1,1 @@
+These patterns were developed for internal GMV use and are made public in the hope that they will benefit others. Also, spreading these patterns throughout the Spanish-language TeX community is expected to provide back-benefits to GMV in that it can help keeping GMV in the mainstream of spanish users.

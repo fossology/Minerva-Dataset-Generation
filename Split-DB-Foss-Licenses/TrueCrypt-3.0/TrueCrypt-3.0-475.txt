@@ -1,0 +1,1 @@
+Copyright (C) 2002-2004 Mark Adler, all rights reserved\r\nversion 1.8, 9 Jan 2004

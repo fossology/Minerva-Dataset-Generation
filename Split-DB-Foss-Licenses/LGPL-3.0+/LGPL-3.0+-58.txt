@@ -1,0 +1,1 @@
+Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>\r\nEveryone is permitted to copy and distribute verbatim copies\r\nof this license document, but changing it is not allowed.

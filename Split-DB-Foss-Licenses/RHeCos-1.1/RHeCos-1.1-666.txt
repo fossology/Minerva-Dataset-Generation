@@ -1,0 +1,1 @@
+The Original Code is eCos - Embedded Configurable Operating System, released September 30, 1998. The Initial Developer of the Original Code is Red Hat. Portions created by Red Hat are Copyright (C) 1998, 1999, 2000 Red Hat, Inc. All Rights Reserved."

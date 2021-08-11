@@ -1,0 +1,1 @@
+getafm getafm.man includeres.man includeres.pl

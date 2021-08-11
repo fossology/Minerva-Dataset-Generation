@@ -1,0 +1,1 @@
+CERN Open Hardware Licence Version 2 - Permissive Preamble CERN has developed this licence to promote collaboration among hardware designers and to provide a legal tool which supports the freedom to use, study, modify, share and distribute hardware designs and products based on those designs

@@ -1,0 +1,1 @@
+   Intact (re-)distributions of any official Zope release do not require an external acknowledgement.

@@ -1,0 +1,1 @@
+      (1) the only changes to the original files either enable use of available fonts or prevent attempts to access unavailable fonts;

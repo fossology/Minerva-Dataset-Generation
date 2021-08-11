@@ -1,0 +1,1 @@
+Vixie License Copyright 1988,1990,1993 by Paul Vixie All rights reserved Distribute freely, except: don't remove my name from the source or documentation (don't take credit for my work), mark your changes (don't get me blamed for your possible bugs), don't alter or remove this notice

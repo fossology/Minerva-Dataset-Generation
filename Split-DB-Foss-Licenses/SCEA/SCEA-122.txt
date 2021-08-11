@@ -1,0 +1,1 @@
+   "Software" shall mean the software and related documentation, whether in Source or Object Form, made available under this SCEA Shared Source license ("License"), that is indicated by a copyright notice file included in the source files or attached or accompanying the source files.

@@ -1,0 +1,1 @@
+     1.7. "Larger Work" means a work which combines Covered\r\nCode or portions thereof with code not governed by the terms\r\nof this License.

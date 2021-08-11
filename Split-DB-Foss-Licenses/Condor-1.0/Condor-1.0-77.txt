@@ -1,0 +1,1 @@
+This software referred to as the Condor\xc2\xae Version 6.x software ("Software") consists of voluntary contributions made to the Condor Project collaboration. For more information on the Condor Project, please see http://www.condorproject.org/.

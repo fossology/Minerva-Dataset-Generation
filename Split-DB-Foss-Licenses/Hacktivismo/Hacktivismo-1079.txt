@@ -1,0 +1,1 @@
+0.10\tSource Code: The term "Source Code" shall mean the preferred form of a Program or Original Work for making modifications to it and all available documentation describing how to access and modify that Program or Original Work.

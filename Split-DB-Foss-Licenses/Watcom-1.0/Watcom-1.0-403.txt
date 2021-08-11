@@ -1,0 +1,1 @@
+         (e) the object code form of the Covered Code may be distributed under Your own license agreement, provided that such license agreement contains terms no less protective of Sybase and each Contributor than the terms of this License, and stating that any provisions which differ from this License are offered by You alone and not by any other party.

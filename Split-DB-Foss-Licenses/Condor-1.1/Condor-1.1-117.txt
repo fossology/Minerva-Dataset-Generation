@@ -1,0 +1,1 @@
+   1. Redistributions of this Software, with or without modification, must reproduce this Condor Public License in: (1) the Software, and (2) any user documentation or other similar material which is provided with the Software.

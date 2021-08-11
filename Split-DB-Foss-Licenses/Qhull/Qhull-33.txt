@@ -1,0 +1,1 @@
+   3. If you modify Qhull, you must include a notice giving the name of the person performing the modification, the date of modification, and the reason for such modification.

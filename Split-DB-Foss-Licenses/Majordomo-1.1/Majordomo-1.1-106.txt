@@ -1,0 +1,1 @@
+     1.  LICENSE.  GCA grants you a non-exclusive, non-transferable\r\nlicense for the Majordomo package ("Majordomo") and its associated\r\ndocumentation, subject to all of the following terms and conditions.\r\nIn accepting a copy of Majordomo you agree to the following terms\r\nand conditions.

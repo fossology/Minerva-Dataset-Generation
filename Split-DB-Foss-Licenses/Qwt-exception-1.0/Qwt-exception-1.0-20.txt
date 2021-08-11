@@ -1,0 +1,1 @@
+However, programs must still identify their use of Qwt. The following example statement can be included in user documentation to satisfy this requirement: [program/widget] is based in part on the work of the Qwt project (http://qwt.sf.net)."

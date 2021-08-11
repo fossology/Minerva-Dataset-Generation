@@ -1,0 +1,1 @@
+3DFX GLIDE Source Code General Public License 1 PREAMBLE This license is for software that provides a 3D graphics application program interface (API).The license is intended to offer terms similar to some standard General Public Licenses designed to foster open standards and unrestricted accessibility to source code

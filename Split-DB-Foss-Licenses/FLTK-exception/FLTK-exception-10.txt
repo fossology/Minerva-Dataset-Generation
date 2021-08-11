@@ -1,0 +1,1 @@
+However, programs must still identify their use of FLTK. The following example statement can be included in user documentation to satisfy this requirement:

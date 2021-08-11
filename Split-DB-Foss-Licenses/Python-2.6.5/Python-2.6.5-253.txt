@@ -1,0 +1,1 @@
+\r\nCWI LICENSE AGREEMENT FOR PYTHON 0.9.0 THROUGH 1.2\r\n--------------------------------------------------

@@ -1,0 +1,1 @@
+ "Standard Version" shall mean OpenMap, as originally created by\r\n BBN.

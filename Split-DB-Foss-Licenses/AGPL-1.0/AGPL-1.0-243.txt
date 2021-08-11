@@ -1,0 +1,1 @@
+This license is a modified version of the GNU General Public License copyright (C) 1989, 1991 Free Software Foundation, Inc. made with their permission. Section 2(d) has been added to cover use of software over a computer network.

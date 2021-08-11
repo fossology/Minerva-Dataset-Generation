@@ -1,0 +1,1 @@
+Code Objet: d\xc3\xa9signe les fichiers binaires issus de la compilation du Code Source.

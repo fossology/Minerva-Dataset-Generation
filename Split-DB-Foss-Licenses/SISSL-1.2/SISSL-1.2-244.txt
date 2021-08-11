@@ -1,0 +1,1 @@
+      2.1 Naming Conventions. If any of your Modifications do not meet the requirements of the Standard, then you must change the product name so that Grid Engine, gridengine, gridengine.sunsource, and similar naming conventions are not used.

@@ -1,0 +1,1 @@
+   - You may not modify any file with filename extension `.ins' since these are installation files containing the legal notices that are placed in the files they generate.

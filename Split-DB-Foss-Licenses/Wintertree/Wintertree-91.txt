@@ -1,0 +1,1 @@
+1.2.3 Sample source code included with the Software Development Kit, provided the source code is compiled into a software program and is not redistributed in human-readable form.

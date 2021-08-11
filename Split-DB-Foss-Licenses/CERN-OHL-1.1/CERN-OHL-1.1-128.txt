@@ -1,0 +1,1 @@
+   2.3 This Licence does not apply to software, firmware, or code loaded into programmable devices which may be used in conjunction with the Documentation, the modified Documentation or with Products. The use of such software, firmware, or code is subject to the applicable licence terms and conditions.

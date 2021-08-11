@@ -1,0 +1,1 @@
+EXPORT RESTRICTIONS \r\nYou agree that U.S. export control laws and other applicable export and import laws govern your use of the programs, including technical data; additional information can be found on Oracle\xc2\xae's Global Trade Compliance web site (http://www.oracle.com/products/export). 

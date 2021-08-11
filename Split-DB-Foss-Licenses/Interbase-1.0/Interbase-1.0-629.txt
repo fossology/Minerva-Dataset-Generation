@@ -1,0 +1,1 @@
+      The license can be modified used for code which is not already governed by this license. Modified versions of the license must be renamed to avoid confusion with Netscape?s or Interbase Software?s license and must include a description of changes from the Interbase Public License.

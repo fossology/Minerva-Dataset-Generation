@@ -1,0 +1,1 @@
+"Larger Work" shall mean a work, which combines Covered Software or portions thereof with code not governed by the terms of this License.

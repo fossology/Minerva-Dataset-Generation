@@ -1,0 +1,1 @@
+      - Files with extension `.ins' (installation files): these files may not be modified at all because they contain the legal notices that are placed in the generated files.

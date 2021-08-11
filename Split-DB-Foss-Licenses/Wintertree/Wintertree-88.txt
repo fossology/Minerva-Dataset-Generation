@@ -1,0 +1,1 @@
+1.2 "Redistributable Software" shall mean and include the following software programs and files included with the Software Development Kit:

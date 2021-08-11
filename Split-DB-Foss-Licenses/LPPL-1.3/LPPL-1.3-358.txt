@@ -1,0 +1,1 @@
+   The LPPL requires that distributions of the Work contain all the\r\n   files of the Work.  It is therefore important that you provide a\r\n   way for the licensee to determine which files constitute the Work.\r\n   This could, for example, be achieved by explicitly listing all the\r\n   files of the Work near the copyright notice of each file or by\r\n   using a line such as:

@@ -1,0 +1,1 @@
+          (b) Contributor APIs.\r\n          If Your Modification is an application programming\r\ninterface and You own or control patents which are\r\nreasonably necessary to implement that API, you must also\r\ninclude this information in the LEGAL file.

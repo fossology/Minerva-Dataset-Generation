@@ -1,0 +1,1 @@
+All Python releases are Open Source (see http://www.opensource.org for\r\nthe Open Source Definition).  Historically, most, but not all, Python\r\nreleases have also been GPL-compatible; the table below summarizes\r\nthe various releases.

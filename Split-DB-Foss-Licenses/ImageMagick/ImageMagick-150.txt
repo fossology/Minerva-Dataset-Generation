@@ -1,0 +1,1 @@
+   * redistribute any piece of ImageMagick-originated software without proper attribution;

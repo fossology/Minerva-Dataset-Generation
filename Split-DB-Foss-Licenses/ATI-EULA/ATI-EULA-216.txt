@@ -1,0 +1,1 @@
+   vi) to  the  extent  there  is  any ATI sample or  control  panel  source\r\n   code included in the ATI Linux Code, no rights are granted to modify such\r\n   code except for portions thereof that  may  be  subject  to  third  party\r\n   license terms that grant such rights; and

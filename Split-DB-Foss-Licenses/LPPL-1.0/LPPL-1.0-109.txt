@@ -1,0 +1,1 @@
+   * You change any `identification string' in The Program to clearly indicate that the file is not part of the standard system.

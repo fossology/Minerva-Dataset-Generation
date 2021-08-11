@@ -1,0 +1,1 @@
+The document modguide.tex in the base LaTeX distribution details the reasons for the legal requirements detailed above. Even if The Program is unrelated to LaTeX, the argument in modguide.tex may still apply, and should be read before a modified version of The Program is distributed.

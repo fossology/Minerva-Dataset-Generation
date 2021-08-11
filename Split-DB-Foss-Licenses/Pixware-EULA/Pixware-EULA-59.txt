@@ -1,0 +1,1 @@
+The Software may only be installed on a single host machine, however Licensee may uninstall the Software and reinstall it on a different host without notice to Licensor. The Software may not be remotely accessed from another machine.

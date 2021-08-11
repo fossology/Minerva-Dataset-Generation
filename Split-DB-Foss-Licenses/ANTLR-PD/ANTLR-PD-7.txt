@@ -1,0 +1,1 @@
+ANTLR 2 License We reserve no legal rights to the ANTLR--it is fully in the public domain

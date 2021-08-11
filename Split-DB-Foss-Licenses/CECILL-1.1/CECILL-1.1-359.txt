@@ -1,0 +1,1 @@
+      Dynamic Module: means any or all module, created by the Contributor, that is independent of the Software, so that this module and the Software are in two different executable forms that are run in separate address spaces, with one calling the other when they are run.

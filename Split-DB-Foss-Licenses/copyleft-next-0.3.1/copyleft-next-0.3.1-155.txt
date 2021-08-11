@@ -1,0 +1,1 @@
+   "Copyleft-Next Project" means the project that maintains the source code repository at <https://github.com/copyleft-next/copyleft-next.git/> as of the release date of this License.

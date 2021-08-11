@@ -1,0 +1,1 @@
+   "Copyright (c) 1998-2014 Proofpoint, Inc. All rights reserved."

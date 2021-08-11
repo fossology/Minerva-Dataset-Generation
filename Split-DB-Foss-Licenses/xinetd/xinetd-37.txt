@@ -1,0 +1,1 @@
+This is an exerpt from an email I recieved from the original author, allowing xinetd as maintained by me (Rob Braun), to use the higher version numbers:

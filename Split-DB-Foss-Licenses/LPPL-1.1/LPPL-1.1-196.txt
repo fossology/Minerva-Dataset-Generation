@@ -1,0 +1,1 @@
+Changing the name of a file is considered to be a modification of the file.

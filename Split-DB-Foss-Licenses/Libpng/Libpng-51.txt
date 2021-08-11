@@ -1,0 +1,1 @@
+libpng versions 1.0.7, July 1, 2000, through 1.2.5 - October 3, 2002, are

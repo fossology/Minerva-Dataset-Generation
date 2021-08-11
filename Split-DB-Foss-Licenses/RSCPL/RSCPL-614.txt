@@ -1,0 +1,1 @@
+      1.3. "Electronic Distribution Mechanism" means a website or any other mechanism generally accepted in the software development community for the electronic transfer of data.

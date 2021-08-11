@@ -1,0 +1,1 @@
+   1.0 Requirements for project Standards. The requirements for project Standards are version-dependent and are defined at: Grid Engine standards.

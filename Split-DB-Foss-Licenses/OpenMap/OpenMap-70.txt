@@ -1,0 +1,1 @@
+ "OpenMap" shall mean a programmer's toolkit for building map\r\n based applications as originally created by BBN, and any\r\n Derivative Works thereof as created by either BBN or Licensee,\r\n but shall include only those Derivative Works BBN has approved\r\n for inclusion into, and BBN has integrated into OpenMap.

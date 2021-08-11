@@ -1,0 +1,1 @@
+         (g) If the Derivative Work normally reads commands interactively when run, you must cause it, when started running for such interactive use, to print or display an announcement as follows:

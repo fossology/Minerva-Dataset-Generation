@@ -1,0 +1,1 @@
+EPICS Open License Terms The following is the text of the EPICS Open software license agreement which now applies to EPICS Base and many of the unbundled EPICS extensions and support modules Copyright \xc2\xa9 <YEAR> <HOLDERS>

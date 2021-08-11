@@ -1,0 +1,1 @@
+   1. distribute the corresponding source modifications from the released version in the form of a patch file along with the binaries,

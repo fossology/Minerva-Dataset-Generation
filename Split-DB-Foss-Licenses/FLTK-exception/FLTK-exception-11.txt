@@ -1,0 +1,1 @@
+[program/widget] is based in part on the work of the FLTK project (http://www.fltk.org).

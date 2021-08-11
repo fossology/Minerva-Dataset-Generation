@@ -1,0 +1,1 @@
+      2.5 "License" means this 3dfx GLIDE Source Code General Public License.

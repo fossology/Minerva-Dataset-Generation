@@ -1,0 +1,1 @@
+Copyright (c) 1995 Tatu Ylonen <ylo@cs.hut.fi>, Espoo, Finland All rights reserved As far as I am concerned, the code I have written for this software can be used freely for any purpose

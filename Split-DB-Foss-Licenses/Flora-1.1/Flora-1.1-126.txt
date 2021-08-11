@@ -1,0 +1,1 @@
+"Tizen Certified Platform" shall mean a software platform that complies with the standards set forth in the Tizen Compliance Specification and passes the Tizen Compliance Tests as defined from time to time by the Tizen Technical Steering Group and certified by the Tizen Association or its designated agent.

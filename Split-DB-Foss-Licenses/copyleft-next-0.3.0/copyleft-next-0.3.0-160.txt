@@ -1,0 +1,1 @@
+   "Copyleft-Next Project" means the project that maintains the source code repository at <https://gitorious.org/copyleft-next/> as of the release date of this License.

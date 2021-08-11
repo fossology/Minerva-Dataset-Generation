@@ -1,0 +1,1 @@
+This License, the Lesser General Public License for Linguistic Resources, applies to some specially designated linguistic resources -- typically lexicons and grammars.

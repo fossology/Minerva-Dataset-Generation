@@ -1,0 +1,1 @@
+   - MD5 is now external, in the OpenSSL library

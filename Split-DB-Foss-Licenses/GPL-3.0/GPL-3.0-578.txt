@@ -1,0 +1,1 @@
+  To do so, attach the following notices to the program.  It is safest\r\nto attach them to the start of each source file to most effectively\r\nstate the exclusion of warranty; and each file should have at least\r\nthe "copyright" line and a pointer to where the full notice is found.

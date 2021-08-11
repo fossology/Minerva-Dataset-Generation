@@ -1,0 +1,1 @@
+  Neither the name of the Eclipse Foundation, Inc. nor the names of its\r\n  contributors may be used to endorse or promote products derived from this\r\n  software without specific prior written permission. 

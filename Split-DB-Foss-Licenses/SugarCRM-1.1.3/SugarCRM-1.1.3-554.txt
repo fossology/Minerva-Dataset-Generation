@@ -1,0 +1,1 @@
+The SugarCRM Public License Version ("SPL") consists of the Mozilla Public License Version 1.1, modified to be specific to SugarCRM, with the Additional Terms in Exhibit B. The original Mozilla Public License 1.1 can be found at: http://www.mozilla.org/MPL/MPL-1.1.html

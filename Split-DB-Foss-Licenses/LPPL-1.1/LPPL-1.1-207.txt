@@ -1,0 +1,1 @@
+If a file of The Program is intended to be used with LaTeX (that is, if it is a LaTeX software file), then the following additional conditions, which supplement and/or supersede the conditions above, apply to the file according to its filename extension:

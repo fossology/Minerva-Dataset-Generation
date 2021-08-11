@@ -1,0 +1,1 @@
+Copyright (c) 2001 Unidex, Inc All rights reserved. Unidex, Inc grants you permission to copy, modify, distribute, and/or use the DTD provided that you agree to the following conditions: 1 You must include this COPYRIGHT NOTICE and LICENSE in all copies or substantial portions of the DTD. 2 The DTD is licensed to the user on an "AS IS" basis. Unidex Inc

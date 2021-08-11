@@ -1,0 +1,1 @@
+   "Normally Copied Code" for a version of Autoconf means all parts of its Covered Code which that version can copy from its code (i.e., not from its input file) into its minimally verbose, non-debugging and non-tracing output.

@@ -1,0 +1,1 @@
+      (2) It is required to also Redistribute means to enable recipients of the Derived Program to replace the Derived Program with the Licensed Program first released under this License (the "Original Program"). Such means may be to provide a difference file from the Original Program, or instructions setting out a method to replace the Derived Program with the Original Program.

@@ -1,0 +1,1 @@
+4.1.5 Disclose the License Key provided with the Software Development Kit to a third party without permission from the Licensor.

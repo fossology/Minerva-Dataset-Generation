@@ -1,0 +1,1 @@
+   "Data" - The contents of the Database, which includes the information, independent works, or other material collected into the Database offered under the terms of this Document.

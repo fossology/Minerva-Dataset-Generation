@@ -1,0 +1,1 @@
+CONDOR PUBLIC LICENSE Version 1.0, February 7, 2003 Copyright \xc2\xa9 1990-2007 Condor Team, Computer Sciences Department, University of Wisconsin-Madison, Madison, WI

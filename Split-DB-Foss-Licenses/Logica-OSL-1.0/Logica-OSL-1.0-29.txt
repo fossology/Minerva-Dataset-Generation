@@ -1,0 +1,1 @@
+Redistribution and use in source and binary forms, with or without\r\nmodification, are permitted provided all copies and partial copies\r\nmade and/or distributed (in whatever form) and all associated documentation\r\nand other material must acknowledge Logica's rights by the inclusion\r\nof the following notice:

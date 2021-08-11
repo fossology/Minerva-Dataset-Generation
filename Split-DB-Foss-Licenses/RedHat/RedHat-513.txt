@@ -1,0 +1,1 @@
+3.2.2\tIf Client is paying by credit card, Client (a) authorizes Red Hat to charge Client's credit card for the Services and for the amount due at the time of renewal of Subscription Services, and (b) agrees to provide updated credit card information to Red Hat for renewal purposes.

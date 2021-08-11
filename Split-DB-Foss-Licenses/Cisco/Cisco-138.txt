@@ -1,0 +1,1 @@
+The above warranty DOES NOT apply to any beta software, any software made available for testing or demonstration purposes, any temporary software modules or any software for which Cisco does not receive a license fee. All such software products are provided AS IS without any warranty whatsoever.

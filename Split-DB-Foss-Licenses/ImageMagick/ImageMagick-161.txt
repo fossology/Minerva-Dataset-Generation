@@ -1,0 +1,1 @@
+   * you may include ImageMagick on a DVD as long as you comply with the terms of the license;

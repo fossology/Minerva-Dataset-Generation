@@ -1,0 +1,1 @@
+      * You may include files in proprietary formats, but you must also include open format versions (such as Gerber, ASCII, Postscript, or PDF) if your tools can create them.

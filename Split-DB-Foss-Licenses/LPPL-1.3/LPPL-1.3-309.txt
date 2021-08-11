@@ -1,0 +1,1 @@
+   `Current Maintainer'\r\n    A person or persons nominated as such within the Work.  If there is\r\n    no such explicit nomination then it is the `Copyright Holder' under\r\n    any applicable law.

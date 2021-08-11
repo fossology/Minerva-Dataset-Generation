@@ -1,0 +1,1 @@
+1. This Firmware is licensed for use only in conjunction with\r\n   Hauppauge component products. Use of the Firmware in conjunction\r\n   with non-Hauppauge component products is not licensed hereunder.

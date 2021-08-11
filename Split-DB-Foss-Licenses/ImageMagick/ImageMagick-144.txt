@@ -1,0 +1,1 @@
+   * link against a library under a different license;

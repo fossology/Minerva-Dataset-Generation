@@ -1,0 +1,1 @@
+      3. Add this phrase to the documentation for your product: "This product uses parts of the iMatix SFL, Copyright \xc2\xa9 1991-2000 iMatix Corporation <http://www.imatix.com>".

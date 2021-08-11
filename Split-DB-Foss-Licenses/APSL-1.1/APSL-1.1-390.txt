@@ -1,0 +1,1 @@
+         (d) if You Deploy Covered Code in object code, executable form only, include a prominent notice, in the code itself as well as in related documentation, stating that Source Code of the Covered Code is available under the terms of this License with information on how and where to obtain such Source Code.

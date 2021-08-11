@@ -1,0 +1,1 @@
+As a special exception, if you link this library with other files to produce an executable, this library does not by itself cause the resulting executable to be covered by the GNU General Public License

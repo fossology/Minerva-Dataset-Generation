@@ -1,0 +1,1 @@
+   c. Create Extensions to the Licensed Software consistent with the rights granted by this License, provided that You make the Source Code to any Extensions You Deploy available to all third parties under the terms of this License, document Your Modifications clearly, and title all Extensions distinctly from the Licensed Software.

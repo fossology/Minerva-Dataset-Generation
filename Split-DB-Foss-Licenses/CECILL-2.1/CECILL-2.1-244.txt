@@ -1,0 +1,1 @@
+         The Licensee can include a code that is subject to the provisions of one of the versions of the GNU GPL, GNU Affero GPL and/or EUPL in the Modified or unmodified Software, and distribute that entire code under the terms of the same version of the GNU GPL, GNU Affero GPL and/or EUPL.

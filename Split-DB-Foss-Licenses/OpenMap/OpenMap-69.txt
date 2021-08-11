@@ -1,0 +1,1 @@
+ "Derivative Work(s)" shall mean any revision, enhancement,\r\n modification, translation, abridgement, condensation or\r\n expansion created by Licensee or BBN that is based upon the\r\n Software or a portion thereof that would be a copyright\r\n infringement if prepared without the authorization of the\r\n copyright owners of the Software or portion thereof.

@@ -1,0 +1,1 @@
+      You may treat Covered Source licensed under CERN-OHL-W as licensed under CERN-OHL-S if and only if all Available Components referenced in the Covered Source comply with the corresponding definition of Available Component for CERN-OHL-S.

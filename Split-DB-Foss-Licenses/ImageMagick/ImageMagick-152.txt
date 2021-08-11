@@ -1,0 +1,1 @@
+   * use any marks owned by ImageMagick Studio LLC in any way that might state or imply that you created the ImageMagick software in question.

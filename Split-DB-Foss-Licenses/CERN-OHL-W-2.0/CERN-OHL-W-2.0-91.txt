@@ -1,0 +1,1 @@
+      1.7 'Available Component' means any part, sub-assembly, library or code which:

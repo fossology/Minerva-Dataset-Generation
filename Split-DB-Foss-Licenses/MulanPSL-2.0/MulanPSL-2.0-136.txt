@@ -1,0 +1,1 @@
+   ii. Create a file named "LICENSE" which contains the whole context of this License in the first directory of your software package;

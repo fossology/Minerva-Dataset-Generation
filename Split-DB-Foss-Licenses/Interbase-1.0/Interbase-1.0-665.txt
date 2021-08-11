@@ -1,0 +1,1 @@
+      II.3. Product Names. Contributor Versions and Larger Works may not be called "InterBase" or "Interbase" nor may the word "InterBase" appear in their names without the prior written permission of Interbase.

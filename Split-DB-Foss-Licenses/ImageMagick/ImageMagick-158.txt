@@ -1,0 +1,1 @@
+   * submit changes that you make to the software back to the ImageMagick Studio LLC (though such feedback is encouraged).

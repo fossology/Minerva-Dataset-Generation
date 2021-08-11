@@ -1,0 +1,1 @@
+      * You must identify the modifications in a text file (preferably named "CHANGES.TXT") that you include with the documentation. That file must also include a statement like "These modifications are licensed under the TAPR Open Hardware License."

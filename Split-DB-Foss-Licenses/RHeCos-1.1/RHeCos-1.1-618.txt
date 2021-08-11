@@ -1,0 +1,1 @@
+      1.13. "Red Hat Branded Code" is code that Red Hat distributes and/or permits others to distribute under different terms than the Red Hat eCos Public License. Red Hat's Branded Code may contain part or all of the Covered Code.

@@ -1,0 +1,1 @@
+This option is useful when you wish to copy part of the code of the Library into a program that is not a library.

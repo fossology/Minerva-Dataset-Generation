@@ -1,0 +1,1 @@
+      * Attempt to send the modified documentation by email to any of the developers who have provided their email address. This is a good faith obligation - if the email fails, you need do nothing more and may go on with your distribution.

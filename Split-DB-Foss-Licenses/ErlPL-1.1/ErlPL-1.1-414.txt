@@ -1,0 +1,1 @@
+   This Erlang License is a derivative work of the Mozilla Public License, Version 1.0. It contains terms which differ from the Mozilla Public License, Version 1.0.

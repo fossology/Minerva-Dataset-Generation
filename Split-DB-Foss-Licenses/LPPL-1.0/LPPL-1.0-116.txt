@@ -1,0 +1,1 @@
+      - Files with extension `.cfg' (configuration files): these files can be created or modified to enable easy configuration of the system. The documentation in cfgguide.tex in the base LaTeX distribution describes when it makes sense to modify or generate such files.

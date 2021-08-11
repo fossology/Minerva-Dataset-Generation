@@ -1,0 +1,1 @@
+A "png_get_copyright" function is available, for convenient use in "about" boxes and the like:

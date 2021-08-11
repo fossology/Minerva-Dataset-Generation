@@ -1,0 +1,1 @@
+      * If the file format allows, include a notice like "Licensed under the TAPR Open Hardware License (www.tapr.org/OHL)" in each documentation file. While not required, you should also include this notice on printed circuit board artwork and the product itself; if space is limited the notice can be shortened or abbreviated.

@@ -1,0 +1,1 @@
+The OHL addresses unique issues involved in the creation of tangible, physical things, but does not cover software, firmware, or code loaded into programmable devices. A copyright-oriented license such as the GPL better suits these creations.

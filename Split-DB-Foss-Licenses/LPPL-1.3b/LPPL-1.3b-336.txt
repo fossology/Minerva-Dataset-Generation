@@ -1,0 +1,1 @@
+5.  If you are not the Current Maintainer of the Work, you may modify\r\nyour copy of the Work, thus creating a Derived Work based on the Work,\r\nand compile this Derived Work, thus creating a Compiled Work based on\r\nthe Derived Work.

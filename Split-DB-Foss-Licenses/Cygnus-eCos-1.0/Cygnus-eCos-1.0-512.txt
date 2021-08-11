@@ -1,0 +1,1 @@
+     6.1. New Versions.\r\n     Cygnus may publish revised and/or new versions of the\r\nLicense from time to time. Each version will be given a\r\ndistinguishing version number.

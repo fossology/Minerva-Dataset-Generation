@@ -1,0 +1,1 @@
+b) Accompany the object code with a copy of the GNU GPL and this license\r\ndocument.

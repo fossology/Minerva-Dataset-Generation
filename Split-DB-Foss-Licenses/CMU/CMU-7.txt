@@ -1,0 +1,1 @@
+           Software Distribution Coordinator\r\n           School of Computer Science\r\n           Carnegie Mellon University\r\n           Pittsburgh PA 15213-3890\r\nor Software.Distribution@CS.CMU.EDU any improvements or extensions that they make and grant Carnegie Mellon the rights to redistribute these changes.

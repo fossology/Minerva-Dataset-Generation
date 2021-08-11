@@ -1,0 +1,1 @@
+The hypothetical commands `show w' and `show c' should show the\r\nappropriate parts of the General Public License. Of course, the\r\ncommands you use may be called something other than `show w' and `show\r\nc'; they could even be mouse-clicks or menu items--whatever suits your\r\nprogram.

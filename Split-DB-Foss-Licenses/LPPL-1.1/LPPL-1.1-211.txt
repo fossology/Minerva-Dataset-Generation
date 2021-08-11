@@ -1,0 +1,1 @@
+      (2) you also distribute the original, unmodified files (TeX input paths can be used to control which set of LaTeX font definition files is actually used by TeX).

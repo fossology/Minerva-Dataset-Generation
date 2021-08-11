@@ -1,0 +1,1 @@
+      * If you wish to be notified of modifications that others may make, include your email address in a file named "CONTRIB.TXT" or something similar.

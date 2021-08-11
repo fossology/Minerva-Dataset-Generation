@@ -1,0 +1,1 @@
+Introduction\r\nOpen source doesn't just mean access to the source code. The distribution terms of open-source software must comply with the following criteria:

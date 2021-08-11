@@ -1,0 +1,1 @@
+   II) It is allowed to distribute a modified (or extended) version of Vim , including executables and/or source code, when the following four conditions are met:

@@ -1,0 +1,1 @@
+The libgcj library is licensed under the terms of the GNU General\r\nPublic License.

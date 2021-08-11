@@ -1,0 +1,1 @@
+      (a) include a prominent notice in an ASCII or other open format file identifying those elements of the Documentation that you changed, and stating that the modifications are licensed under the terms of this Agreement;

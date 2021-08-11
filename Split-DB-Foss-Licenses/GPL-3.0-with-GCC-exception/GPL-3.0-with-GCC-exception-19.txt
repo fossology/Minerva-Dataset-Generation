@@ -1,0 +1,1 @@
+\xef\xbb\xbfinsert GPL v3 text here GCC RUNTIME LIBRARY EXCEPTION Version 3.1, 31 March 2009 General information: http://www.gnu.org/licenses/gcc-exception.html Copyright (C) 2009 Free Software Foundation, Inc

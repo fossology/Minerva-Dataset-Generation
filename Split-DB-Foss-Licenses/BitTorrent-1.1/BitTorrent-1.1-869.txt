@@ -1,0 +1,1 @@
+This License complies with the Open Source Definition and is derived from the Jabber Open Source License 1.0 (the "JOSL"), which has been approved by Open Source Initiative. Sections 4(c) and 4(f)(iii) from the JOSL have been deleted.

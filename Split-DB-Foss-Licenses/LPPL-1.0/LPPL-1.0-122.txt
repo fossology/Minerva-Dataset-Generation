@@ -1,0 +1,1 @@
+Because of the portability and exchangeability aspects of systems like LaTeX, The LaTeX3 Project deprecates the distribution of non-standard versions of components of LaTeX or of generally available contributed code for them but such distributions are permitted under the above restrictions.

@@ -1,0 +1,1 @@
+   In addition, the source code must be included with the object code distribution or the distributor must provide the source code to the recipient upon request.

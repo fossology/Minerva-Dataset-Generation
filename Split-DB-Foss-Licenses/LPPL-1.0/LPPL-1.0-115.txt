@@ -1,0 +1,1 @@
+      - Files with extension `.fd' (LaTeX font definitions files): these files are allowed to be modified without changing the name, but only to enable use of all available fonts and to prevent attempts to access unavailable fonts. However, modified files are not allowed to be distributed in place of original files.

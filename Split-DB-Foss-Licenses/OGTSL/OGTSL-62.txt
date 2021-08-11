@@ -1,0 +1,1 @@
+For software developers: conformance testing of platforms and middleware greatly reduces the cost of developing and maintaining multi-platform application software.

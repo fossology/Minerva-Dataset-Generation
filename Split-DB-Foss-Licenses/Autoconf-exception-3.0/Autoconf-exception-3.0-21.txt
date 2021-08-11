@@ -1,0 +1,1 @@
+Version 3.0, 18 August 2009 Copyright \xc2\xa9 2009 Free Software Foundation, Inc. <http://fsf.org/>

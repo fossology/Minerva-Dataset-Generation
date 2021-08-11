@@ -1,0 +1,1 @@
+4.  If you are the Current Maintainer of the Work, you may, without\r\nrestriction, modify the Work, thus creating a Derived Work.  You may\r\nalso distribute the Derived Work without restriction, including\r\nCompiled Works generated from the Derived Work.  Derived Works\r\ndistributed in this manner by the Current Maintainer are considered to\r\nbe updated versions of the Work.

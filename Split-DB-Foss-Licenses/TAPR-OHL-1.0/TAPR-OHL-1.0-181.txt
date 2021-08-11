@@ -1,0 +1,1 @@
+      (b) include all new documentation files that you create, as well as both the original and modified versions of each file you change (files may be in your development tool's native file format, but if reasonably possible, you must also include open format, such as Gerber, ASCII, Postscript, or PDF, versions);

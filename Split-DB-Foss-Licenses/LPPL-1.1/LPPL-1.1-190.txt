@@ -1,0 +1,1 @@
+   6. You must change any addresses in the modified file for the reporting of errors in the file or in The Program generally to ensure that reports for files no longer maintained by the original maintainers will be directed to the maintainers of the modified files.

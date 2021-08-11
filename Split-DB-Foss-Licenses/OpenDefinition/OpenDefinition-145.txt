@@ -1,0 +1,1 @@
+Rationale: This clause is intended to forbid closing up software by indirect means such as requiring a non-disclosure agreement.

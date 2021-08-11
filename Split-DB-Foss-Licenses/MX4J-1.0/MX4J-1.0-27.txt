@@ -1,0 +1,1 @@
+         5. Products derived from this software may not be called "MX4J",\r\n            nor may "MX4J" appear in their name, without prior written\r\n            permission of Simone Bordet.

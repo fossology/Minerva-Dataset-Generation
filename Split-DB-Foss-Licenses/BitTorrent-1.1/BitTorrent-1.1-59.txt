@@ -1,0 +1,1 @@
+BitTorrent Open Source License Version 1.1 This BitTorrent Open Source License (the "License") applies to the BitTorrent client and related software products as well as any updates or maintenance releases of that software ("BitTorrent Products") that are distributed by BitTorrent, Inc ("Licensor") Any BitTorrent Product licensed pursuant to this License is a Licensed Product

@@ -1,0 +1,1 @@
+"This product uses components written by Paul Le Roux <pleroux@swprofessionals.com>"

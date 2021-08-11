@@ -1,0 +1,1 @@
+10. License Must Be Technology-Neutral\r\nNo provision of the license may be predicated on any individual technology or style of interface.

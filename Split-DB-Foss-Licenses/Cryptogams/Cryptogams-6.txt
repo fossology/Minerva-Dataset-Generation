@@ -1,0 +1,1 @@
+      *\tRedistributions in binary form must reproduce the above\r\n\tcopyright notice, this list of conditions and the following\r\n\tdisclaimer in the documentation and/or other materials\r\n\tprovided with the distribution.

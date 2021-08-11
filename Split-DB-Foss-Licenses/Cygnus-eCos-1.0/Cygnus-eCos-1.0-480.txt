@@ -1,0 +1,1 @@
+     1.6. "Initial Developer" means the individual or\r\nentity identified as the Initial Developer in the Source\r\nCode notice required by Exhibit A.

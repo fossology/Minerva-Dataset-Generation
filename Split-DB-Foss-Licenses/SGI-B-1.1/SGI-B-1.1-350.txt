@@ -1,0 +1,1 @@
+      1.14 "SGI Patents" means patent claims Licensable by SGI other than the Licensed Patents.

@@ -1,0 +1,1 @@
+Copyright (c) 2006, CRYPTOGAMS by <appro@openssl.org>\r\nAll rights reserved.

@@ -1,0 +1,1 @@
+            - You keep the changes for at least three years after last distributing the corresponding modified Vim . When the maintainer or someone who you distributed the modified Vim to asks you (in any way) for the changes within this period, you must make them available to him.

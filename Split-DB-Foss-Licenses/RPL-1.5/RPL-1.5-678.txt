@@ -1,0 +1,1 @@
+Regarding deployment, under the RPL your changes, bug fixes, extensions, etc. must be made available to the open source community at large when you Deploy in any form -- either internally or to an outside party. Once you start running the software you have to start sharing the software.

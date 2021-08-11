@@ -1,0 +1,1 @@
+In 1995, Guido continued his work on Python at the Corporation for\r\nNational Research Initiatives (CNRI, see http://www.cnri.reston.va.us)\r\nin Reston, Virginia where he released several versions of the\r\nsoftware.

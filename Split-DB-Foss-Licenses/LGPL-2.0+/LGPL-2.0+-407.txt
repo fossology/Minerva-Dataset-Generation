@@ -1,0 +1,1 @@
+[This is the first released version of the library GPL. It is numbered 2 because it goes with version 2 of the ordinary GPL.]

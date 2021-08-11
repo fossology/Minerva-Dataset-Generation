@@ -1,0 +1,1 @@
+   * The conditions on individual files differ only in the extent of *modification* that is allowed.

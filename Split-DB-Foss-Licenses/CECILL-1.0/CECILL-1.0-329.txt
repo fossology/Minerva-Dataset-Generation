@@ -1,0 +1,1 @@
+Module: d\xc3\xa9signe un ensemble de fichiers sources y compris leur documentation qui, une fois compil\xc3\xa9 sous forme ex\xc3\xa9cutable, permet de r\xc3\xa9aliser des fonctionnalit\xc3\xa9s ou

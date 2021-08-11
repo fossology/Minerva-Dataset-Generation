@@ -1,0 +1,1 @@
+Copyright (C) 1991 Free Software Foundation, Inc.\r\n51 Franklin St, Fifth Floor, Boston, MA 02110-1301, USA\r\nEveryone is permitted to copy and distribute verbatim copies\r\nof this license document, but changing it is not allowed.

@@ -1,0 +1,1 @@
+   * The conditions on *distribution* are the same for all the files. Thus a (re)distributor of a complete, unchanged copy of The Program need meet only the conditions in this file; it is not necessary to check the header of every file in the distribution to check that a distribution meets these requirements.

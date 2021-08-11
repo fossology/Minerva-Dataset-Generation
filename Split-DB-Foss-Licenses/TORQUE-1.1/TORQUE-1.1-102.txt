@@ -1,0 +1,1 @@
+This license will be governed by the laws of Utah, without reference to its choice of law rules. Note 1: TORQUE is developed from an earlier version v2.3 of OpenPBS. TORQUE has been developed beyond OpenPBS v2.3. The OpenPBS v2.3 license and OpenPBS software can be obtained at:

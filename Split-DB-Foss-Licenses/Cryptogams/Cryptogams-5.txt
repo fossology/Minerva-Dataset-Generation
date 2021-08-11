@@ -1,0 +1,1 @@
+      *\tRedistributions of source code must retain copyright notices,\r\n\tthis list of conditions and the following disclaimer.

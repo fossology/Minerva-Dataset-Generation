@@ -1,0 +1,1 @@
+   4. Names associated with Zope or Zope Corporation must not be used to endorse or promote products derived from this software without prior written permission from Zope Corporation.

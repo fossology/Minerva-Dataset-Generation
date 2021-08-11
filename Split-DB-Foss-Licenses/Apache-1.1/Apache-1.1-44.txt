@@ -1,0 +1,1 @@
+   4. The name "Apache" and "Apache Software Foundation" must not be used to endorse or promote products derived from this software without prior written permission. For written permission, please contact apache@apache.org .

@@ -1,0 +1,1 @@
+      2.6 The "Source Code" for a work means the preferred form of the work for making modifications to it. For an executable work, complete source code means all the source code for all modules it contains, any associated interface definition files, and the scripts used to control compilation and installation of the executable work.

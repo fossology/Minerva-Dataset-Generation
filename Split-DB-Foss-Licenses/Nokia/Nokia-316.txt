@@ -1,0 +1,1 @@
+"Executable" shall mean Covered Software in any form other than Source Code.

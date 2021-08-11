@@ -1,0 +1,1 @@
+    Release         Derived     Year        Owner       GPL-\r\n\t\t    from                                compatible? (1)

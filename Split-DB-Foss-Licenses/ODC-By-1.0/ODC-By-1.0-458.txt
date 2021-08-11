@@ -1,0 +1,1 @@
+      DATABASE NAME should be replaced with the name of the Database and a hyperlink to the location of the Database. "ODC Attribution License" should contain a hyperlink to the URI of the text of this License. If hyperlinks are not possible, You should include the plain text of the required URI's with the above notice.

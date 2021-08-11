@@ -1,0 +1,1 @@
+Further, under the RPL all components you author including schemas, scripts, source code, etc. -- regardless of whether they're compiled into a single binary or used as two halves of client/server application -- must be shared. You have to share the whole pie, not an isolated slice of it.

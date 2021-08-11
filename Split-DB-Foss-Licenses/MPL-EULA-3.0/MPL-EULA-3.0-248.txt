@@ -1,0 +1,1 @@
+1.  LICENSE GRANT.  The Mozilla Corporation grants you a non-exclusive license to use the executable code version of the Product.  This Agreement will also govern any software upgrades provided by Mozilla that replace and/or supplement the original Product, unless such upgrades are accompanied by a separate license, in which case the terms of that license will govern.

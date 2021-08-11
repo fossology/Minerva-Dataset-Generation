@@ -1,0 +1,1 @@
+      Module: means a set of sources files including their documentation that, once compiled in executable form, enables supplementary functionalities or services to be developed in addition to those offered by the Software.

@@ -1,0 +1,1 @@
+Eiffel Forum License, version 2 1 Permission is hereby granted to use, copy, modify and/or distribute this package, provided that: - copyright notices are retained unchanged, - any distribution of this package, whether modified or not, includes this license text. 2

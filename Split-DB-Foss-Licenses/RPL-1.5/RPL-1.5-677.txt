@@ -1,0 +1,1 @@
+While you should clearly read and understand the entire license, the essence of the RPL is found in two definitions: "Deploy" and "Required Components".

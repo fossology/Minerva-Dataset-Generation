@@ -1,0 +1,1 @@
+Great Circle Associates (GCA) is the original developer of Majordomo,\r\na package for managing Internet mailing lists.  Since its initial\r\nrelease, many organizations and individuals have contributed\r\nenhancements and fixes, but the original copyright has been retained\r\nby Great Circle Associates.

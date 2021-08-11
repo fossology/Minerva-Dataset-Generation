@@ -1,0 +1,1 @@
+         * states that source code for the Program is available from such Contributor at the cost of distribution, and informs licensees how to obtain it in a reasonable manner.

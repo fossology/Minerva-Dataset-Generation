@@ -1,0 +1,1 @@
+I.6 Special exception for LZMA compression module LZMA exception

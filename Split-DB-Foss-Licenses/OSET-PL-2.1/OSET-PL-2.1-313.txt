@@ -1,0 +1,1 @@
+      1.12 "Secondary License" means one of: the GNU General Public License, Version 2.0, the GNU Lesser General Public License, Version 2.1, the GNU Affero General Public License, Version 3.0, or any later versions of those licenses.

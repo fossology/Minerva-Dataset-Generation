@@ -1,0 +1,1 @@
+This Source Code Form is subject to the terms of the OSET Public License, v.2.1 ("OPL"). If a copy of the OPL was not distributed with this file, You can obtain one at: www.OSETFoundation.org/public-license.

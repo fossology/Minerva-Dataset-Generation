@@ -1,0 +1,1 @@
+            - You clearly describe in the distribution how to contact you. This contact information must remain valid for at least three years after last distributing the corresponding modified Vim , or as long as possible.

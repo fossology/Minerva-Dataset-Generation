@@ -1,0 +1,1 @@
+1. This LICENSE AGREEMENT is between BeOpen.com ("BeOpen"), having an\r\noffice at 160 Saratoga Avenue, Santa Clara, CA 95051, and the\r\nIndividual or Organization ("Licensee") accessing and otherwise using\r\nthis software in source or binary form and its associated\r\ndocumentation ("the Software").

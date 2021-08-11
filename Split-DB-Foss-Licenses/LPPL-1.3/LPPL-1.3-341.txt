@@ -1,0 +1,1 @@
+A change in the Current Maintainer does not, of itself, alter the fact\r\nthat the Work is distributed under the LPPL license.

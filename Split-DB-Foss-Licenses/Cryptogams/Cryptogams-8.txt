@@ -1,0 +1,1 @@
+ALTERNATIVELY, provided that this notice is retained in full, this\r\nproduct may be distributed under the terms of the GNU General Public\r\nLicense (GPL), in which case the provisions of the GPL apply INSTEAD OF\r\nthose given above.

@@ -1,0 +1,1 @@
+About porting the source code to another language (for example C# or C++): converted source code (even if done manually) stays under the same copyright and license as the original code. The copyright of the ported source code does not (automatically) go to the person who ported the code.

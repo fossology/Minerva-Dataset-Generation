@@ -1,0 +1,1 @@
+[ Note: the form of this license was derived, by permission, from the license\r\nfor the Firewalls Toolkit distributed by Trusted Information Systems, Inc. ]

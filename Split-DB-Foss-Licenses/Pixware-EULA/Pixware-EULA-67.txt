@@ -1,0 +1,1 @@
+Licensee may not include the binary class library and binary dictionary files with any software product which is itself a development kit, a component or a library.

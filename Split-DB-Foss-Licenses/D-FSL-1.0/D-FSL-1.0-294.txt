@@ -1,0 +1,1 @@
+         1. Der Source Code der kombinierten Programme muss jeweils in eigenen Dateien vorhanden sein, die keine Bestandteile des anderen Teils enthalten, die \xc3\xbcber die zur Programmkombination \xc3\xbcblichen und erforderlichen Informationen \xc3\xbcber den anderen Teil hinausgehen, wobei der Source Code des anderen Programms nicht mitgeliefert werden muss.

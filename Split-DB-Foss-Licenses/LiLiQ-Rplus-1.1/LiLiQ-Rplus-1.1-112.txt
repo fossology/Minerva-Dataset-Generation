@@ -1,0 +1,1 @@
+   Chaque fois que le licenci\xc3\xa9 distribue le logiciel, un logiciel modifi\xc3\xa9, ou un logiciel d\xc3\xa9riv\xc3\xa9, ce dernier doit assumer l'obligation d'en distribuer le code source, de la mani\xc3\xa8re pr\xc3\xa9vue au troisi\xc3\xa8me alin\xc3\xa9a de l'article 3.

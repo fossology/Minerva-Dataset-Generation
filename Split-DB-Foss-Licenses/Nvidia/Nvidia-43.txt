@@ -1,0 +1,1 @@
+Any use of this source code must include, in the user documentation and internal comments to the code, notices to the end user as follows:

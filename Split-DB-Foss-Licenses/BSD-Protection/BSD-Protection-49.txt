@@ -1,0 +1,1 @@
+This is of particular value to those who produce reference implementations of proposed standards: The case of TCP/IP clearly illustrates that freely and universally available implementations leads the rapid acceptance of standards -- often even being used instead of a de jure standard (eg, OSI network models).

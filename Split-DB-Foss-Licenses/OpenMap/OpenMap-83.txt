@@ -1,0 +1,1 @@
+    c) rename any non-standard executables so the names do not\r\n       conflict with standard executables, which must also be\r\n       provided, and provide a separate manual page for each\r\n       non-standard executable that clearly documents how it\r\n       differs from OpenMap.

@@ -1,0 +1,1 @@
+1.1 "Software Development Kit" shall mean and include the software programs and files needed to integrate the Wintertree Thesaurus Engine with Application Programs, including documentation, examples, include files, declarations, source code, utility programs, and libraries.

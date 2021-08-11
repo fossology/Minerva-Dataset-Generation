@@ -1,0 +1,1 @@
+11.4. "Licensed Patent" means U.S. Patent 4,558,302 registered in the name of Unisys Corporation relating to digital data compression and decompression, and all foreign counterparts.

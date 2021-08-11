@@ -1,0 +1,1 @@
+      Static Module: means any or all module, created by the Contributor and connected to the Software by a static link that makes their object codes interdependent. This module and the Software to which it is connected, are combined in a single executable.

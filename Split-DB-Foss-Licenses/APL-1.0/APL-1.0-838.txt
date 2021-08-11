@@ -1,0 +1,1 @@
+      1.19. "SUPPLEMENT FILE" means a file distributed with the Licensed Work having a file name "suppfile.txt".

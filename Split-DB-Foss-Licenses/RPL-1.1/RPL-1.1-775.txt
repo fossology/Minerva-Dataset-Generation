@@ -1,0 +1,1 @@
+      1.9 "Modifications" means any additions to or deletions from the substance or structure of (i) a file or other storage containing Licensed Software, or (ii) any new file or storage that contains any part of Licensed Software, or (iii) any file or storage which replaces or otherwise alters the original functionality of Licensed Software at runtime.

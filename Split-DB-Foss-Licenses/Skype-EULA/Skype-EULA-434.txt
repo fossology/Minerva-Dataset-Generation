@@ -1,0 +1,1 @@
+2.7.1 You may make use of the Skype API provided that:

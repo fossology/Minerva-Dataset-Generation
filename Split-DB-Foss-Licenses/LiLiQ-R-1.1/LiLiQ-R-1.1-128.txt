@@ -1,0 +1,1 @@
+      11\xc2\xa0 GNU Lesser General Public License Version 3 (GNU LGPLv3)

@@ -1,0 +1,1 @@
+This Zimbra Public License (this "Agreement") is a legal agreement that describes the terms under which Zimbra, Inc., a Texas corporation ("Zimbra") will provide software to you via download or otherwise ("Software"). By using the Software, you, an individual or an entity ("You") agree to the terms of this Agreement.

@@ -1,0 +1,1 @@
+* If you are an Original Equipment Manufacturer (OEM), Independent\r\n  Hardware Vendor (IHV), or Independent Firmware Vendor (ISV), the\r\n  OEM/IHV/ISVFIRMWARE LICENSE AGREEMENT applies, as well as the\r\n  END-USER FIRMWARE LICENSE AGREEMENT (this license).

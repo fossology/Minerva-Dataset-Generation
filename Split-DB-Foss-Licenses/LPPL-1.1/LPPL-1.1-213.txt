@@ -1,0 +1,1 @@
+Because of portability and exchangeability issues in LaTeX software, The LaTeX3 Project deprecates the distribution of modified versions of components of LaTeX or of generally available contributed code for them, but such distribution can meet the conditions of this license.

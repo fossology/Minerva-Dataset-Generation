@@ -1,0 +1,1 @@
+      (d) if you make or have Products made, include in the Documentation all elements reasonably required to permit others to make Products, including Gerber, CAD/CAM and other files used for manufacture.

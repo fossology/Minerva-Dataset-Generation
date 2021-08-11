@@ -1,0 +1,1 @@
+Modifications to this software may be distributed, either by distributing the modified software or by distributing patches to the original software, under the following additional terms:

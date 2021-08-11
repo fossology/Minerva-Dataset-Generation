@@ -1,0 +1,1 @@
+   Nothing in this License shall be interpreted to prohibit Red Hat from licensing under different terms than this License any code which Red Hat otherwise would have a right to license.

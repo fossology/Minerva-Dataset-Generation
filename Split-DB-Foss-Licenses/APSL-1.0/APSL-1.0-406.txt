@@ -1,0 +1,1 @@
+         (c) completely and accurately document all Modifications that you have made and the date of each such Modification, designate the version of the Original Code you used, prominently include a file carrying such information with the Modifications, and duplicate the notice in Exhibit A in each file of the Source Code of all such Modifications.

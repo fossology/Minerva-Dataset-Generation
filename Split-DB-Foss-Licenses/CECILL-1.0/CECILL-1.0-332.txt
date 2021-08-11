@@ -1,0 +1,1 @@
+Module Statique: d\xc3\xa9signe tout Module cr\xc3\xa9\xc3\xa9 par le Contributeur et li\xc3\xa9 au Logiciel par un lien statique rendant leur code objet d\xc3\xa9pendant l'un de l'autre. Ce Module et le Logiciel auquel il est li\xc3\xa9, sont regroup\xc3\xa9s en un seul ex\xc3\xa9cutable.

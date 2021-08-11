@@ -1,0 +1,1 @@
+   * If The Program is intended to be used with, or is based on, LaTeX, then files with the following file extensions which have special meaning in LaTeX Software, have special modification rules under the license:

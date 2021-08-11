@@ -1,0 +1,1 @@
+""" Portions of this software are copyright \xc2\xa9 <year> The FreeType Project (www.freetype.org). All rights reserved. """

@@ -1,0 +1,1 @@
+   4. Neither the name of Proofpoint, Inc. nor the University of California nor names of their contributors may be used to endorse or promote products derived from this software without specific prior written permission. The name "sendmail" is a trademark of Proofpoint, Inc.

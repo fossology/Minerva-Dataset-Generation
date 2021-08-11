@@ -1,0 +1,1 @@
+1.9 "Software License Key" means, if applicable, a serial number issued to you by VMware to activate and use the Software. A separate, additional Software License Key may be required to activate and use each Licensed Additional Module.

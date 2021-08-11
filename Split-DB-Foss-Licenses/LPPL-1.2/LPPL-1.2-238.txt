@@ -1,0 +1,1 @@
+Given such a notice and statement in a file, the conditions given in this license document would apply, with `The Program' referring to the two files `pig.dtx' and `pig.ins', and `The Copyright Holder' referring to the person `M. Y. Name'.

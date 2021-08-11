@@ -1,0 +1,1 @@
+   1. General; Definitions. This License applies only to the following software programs: the open source versions of Sybase's Watcom C/C++ and Fortran compiler products ("Software"), which are modified versions of, with significant changes from, the last versions made commercially available by Sybase. As used in this License:

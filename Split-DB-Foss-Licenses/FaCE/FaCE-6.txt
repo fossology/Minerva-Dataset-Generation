@@ -1,0 +1,1 @@
+== == Copyright and Licensing Information == $Id: License.txt 94670 2011-10-07 09:56:15Z johnnyw $ == ACE(tm) and TAO(tm) are copyrighted by Dr

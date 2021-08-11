@@ -1,0 +1,1 @@
+If you modify libpng you may insert additional notices immediately following this sentence.

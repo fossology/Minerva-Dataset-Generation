@@ -1,0 +1,1 @@
+      a) The modified work must itself be a software library.

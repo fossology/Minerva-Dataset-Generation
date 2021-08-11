@@ -1,0 +1,1 @@
+Typical examples of files with more restrictive modification conditions would be files that contain the text of copyright notices.

@@ -1,0 +1,1 @@
+Please replace <year> with the value from the FreeType version you actually use.

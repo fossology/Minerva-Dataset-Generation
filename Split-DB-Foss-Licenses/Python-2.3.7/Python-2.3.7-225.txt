@@ -1,0 +1,1 @@
+PSF LICENSE AGREEMENT FOR PYTHON 2.3\r\n------------------------------------

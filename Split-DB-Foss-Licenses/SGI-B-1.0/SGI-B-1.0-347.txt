@@ -1,0 +1,1 @@
+      2.2 Restriction on Patent License. Notwithstanding the provisions of Section 2.1(ii), no patent license is granted: 1) separate from the Original Code; nor 2) for infringements caused by (i) modification of the Original Code, or (ii) the combination of the Original Code with other software or Hardware.

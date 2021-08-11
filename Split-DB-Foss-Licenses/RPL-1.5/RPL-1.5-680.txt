@@ -1,0 +1,1 @@
+In addition to these goals, the RPL was authored to meet the requirements of the Open Source Definition as maintained by the Open Source Initiative (OSI).

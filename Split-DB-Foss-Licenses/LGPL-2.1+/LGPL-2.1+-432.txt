@@ -1,0 +1,1 @@
+[This is the first released version of the Lesser GPL. It also counts\r\nas the successor of the GNU Library Public License, version 2, hence\r\nthe version number 2.1.]

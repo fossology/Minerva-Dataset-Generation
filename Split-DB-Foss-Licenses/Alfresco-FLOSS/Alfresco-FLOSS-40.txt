@@ -1,0 +1,1 @@
+Package name\tQualifying License and Version\r\nApache Portable Runtime (APR)\tApache Software License 2.0

@@ -1,0 +1,1 @@
+I appreciate your maintaining the version string guidelines as specified in the copyright. But I did not mean them to last as long as they did.

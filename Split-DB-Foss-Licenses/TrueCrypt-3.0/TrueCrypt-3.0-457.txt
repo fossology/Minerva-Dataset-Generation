@@ -1,0 +1,1 @@
+2. If you use any of the source code in your product, and your product is distributed with source code, you must include this notice with those portions of this source code that you use.

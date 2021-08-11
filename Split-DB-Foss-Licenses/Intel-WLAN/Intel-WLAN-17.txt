@@ -1,0 +1,1 @@
+Note: Many regulatory agencies consider Wireless LAN adapters to be\r\nmodules, and accordingly, condition system-level regulatory approval\r\nupon receipt and review of test data documenting that the antennas and\r\nsystem configuration do not cause the EMC and radio operation to be\r\nnon-compliant.

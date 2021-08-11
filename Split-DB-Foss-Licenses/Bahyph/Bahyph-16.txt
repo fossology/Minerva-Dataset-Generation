@@ -1,0 +1,1 @@
+COPYRIGHT NOTICE These patterns and the generating sh script are Copyright (c) GMV 1991 These patterns were developed for internal GMV use and are made public in the hope that they will benefit others

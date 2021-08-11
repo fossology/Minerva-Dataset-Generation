@@ -1,0 +1,1 @@
+         b. Contributor APIs. If Your Extensions include an application programming interface ("API") and You have knowledge of patent licenses that are reasonably necessary to implement that API, You must also include this information in the LEGAL file.

@@ -1,0 +1,1 @@
+The hypothetical commands `show w' and `show c' should show the appropriate\r\nparts of the General Public License.  Of course, your program's commands\r\nmight be different; for a GUI interface, you would use an "about box".

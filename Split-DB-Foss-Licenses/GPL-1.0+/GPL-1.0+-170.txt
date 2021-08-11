@@ -1,0 +1,1 @@
+7. The Free Software Foundation may publish revised and/or new versions\r\nof the General Public License from time to time. Such new versions will\r\nbe similar in spirit to the present version, but may differ in detail to\r\naddress new problems or concerns.

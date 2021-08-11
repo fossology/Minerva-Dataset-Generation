@@ -1,0 +1,1 @@
+"Copyright Holder" is whoever is named in the copyright or copyrights for the package.

@@ -1,0 +1,1 @@
+The TAPR Open Hardware License ("OHL") agreement provides a legal framework for Open Hardware projects. It may be used for any kind of product, be it a hammer or a computer motherboard, and is TAPR's contribution to the community; anyone may use the OHL for their Open Hardware project.

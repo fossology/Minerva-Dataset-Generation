@@ -1,0 +1,1 @@
+Redistribution of unchanged files is allowed provided that all files that make up the distribution of The Program are distributed. In particular this means that The Program has to be distributed including its documentation if documentation was part of the original distribution.

@@ -1,0 +1,1 @@
+   * If The Program includes an `error report address' so that errors may be reported to The Copyright Holder, or other specified addresses, this address must be changed in any modified versions of The Program, so that reports for files not maintained by the original program maintainers are directed to the maintainers of the changed files.

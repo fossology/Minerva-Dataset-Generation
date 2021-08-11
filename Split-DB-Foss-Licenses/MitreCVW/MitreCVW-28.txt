@@ -1,0 +1,1 @@
+License Agreement\r\nGeneral\r\nRedistribution of the CVW software or derived works must reproduce MITRE's copyright\r\ndesignation and this License in the documentation and/or other materials provided with the\r\ndistribution.\r\nCopyright &copy 1994-1999. The MITRE Corporation (\r\ntarget="_top">http://www.mitre.org/). All Rights Reserved.

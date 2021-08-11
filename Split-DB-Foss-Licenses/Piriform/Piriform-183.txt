@@ -1,0 +1,1 @@
+"Virtualization Capability" means making a single physical device appear to function as multiple virtual resources.

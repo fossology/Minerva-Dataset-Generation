@@ -1,0 +1,1 @@
+Non-Assignability\r\nLicensee may not sell, transfer, assign or subcontract the Software or any right or obligation set forth in this Agreement without the prior written consent of Broadcom. Any act in derogation of the foregoing shall be null and void.

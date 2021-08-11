@@ -1,0 +1,1 @@
+   "This product includes software from the Condor\xc2\xae Project (http://www.condorproject.org/)"

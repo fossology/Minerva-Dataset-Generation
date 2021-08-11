@@ -1,0 +1,1 @@
+The SFL License Agreement This license agreement covers your use of the iMatix STANDARD FUNCTION LIBRARY (SFL), its source code, documentation, and executable files, hereinafter referred to as "the Product". The Product is Copyright (c) 1991-2000 iMatix Corporation

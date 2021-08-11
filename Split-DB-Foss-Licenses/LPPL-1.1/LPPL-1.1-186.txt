@@ -1,0 +1,1 @@
+   2. If the file is a LaTeX software file, then you must meet any applicable additional conditions on the distribution of a modified version of the file that are described below in the subsection `Additional Conditions on LaTeX Software Files'.

@@ -1,0 +1,1 @@
+Skype API: application program interface consisting of the set of routines utilized by the Skype Software to provide the Skype Software functionality for a given platform or operating system, Skype API being included in or linked to the Skype Software as well as any future versions, improvements, developments, programming fixes, updates and upgrades thereof.

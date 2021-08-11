@@ -1,0 +1,1 @@
+1.2.1 The Wintertree Thesaurus Engine in the form of binary object files, executable files, a software library, or a dynamic link-library;

@@ -1,0 +1,1 @@
+   * include a copy of the license in any redistribution you may make that includes ImageMagick software;

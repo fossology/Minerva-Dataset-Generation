@@ -1,0 +1,1 @@
+Nothing in this Exception gives you or anyone else the right to change the licensing terms of the Qt Open Source Edition.

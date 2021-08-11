@@ -1,0 +1,1 @@
+These patterns and the generating sh script are Copyright (c) GMV 1991

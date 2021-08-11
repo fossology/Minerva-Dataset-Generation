@@ -1,0 +1,1 @@
+To use this license, place in each of the components of your work both\r\nan explicit copyright notice including your name and the year the work\r\nwas authored and/or last substantially modified.  Include also a\r\nstatement that the distribution and/or modification of that\r\ncomponent is constrained by the conditions in this license.

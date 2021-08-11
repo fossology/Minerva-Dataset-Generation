@@ -1,0 +1,1 @@
+For the above reasons, we put forth this "BSD Protection License": A license designed to retain the freedom granted by the BSD license to use licensed works in a wide variety of settings, both non-commercial and commercial, while protecting the work from having future contributors restrict that freedom.

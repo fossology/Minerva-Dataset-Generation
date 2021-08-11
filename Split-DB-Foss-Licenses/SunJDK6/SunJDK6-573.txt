@@ -1,0 +1,1 @@
+D. Java Technology Restrictions.  You may not create, \r\nmodify, or change the behavior of, or authorize your \r\nlicensees to create, modify, or change the behavior \r\nof, classes, interfaces, or subpackages that are in \r\nany way identified as "java", "javax", "sun" or \r\nsimilar convention as specified by Sun in any naming \r\nconvention designation.

@@ -1,0 +1,1 @@
+Copyright (c) 1991 - 1995, Stichting Mathematisch Centrum Amsterdam,\r\nThe Netherlands.  All rights reserved.

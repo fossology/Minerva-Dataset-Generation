@@ -1,0 +1,1 @@
+                 You may not publicly distribute a modified or\r\n                 incomplete version of Majordomo.  You may make\r\n                 such a version available to your own clients,\r\n                 subject to the restrictions below, but not to the\r\n                 general public (for instance, by placing it on an\r\n                 anonymous FTP site).

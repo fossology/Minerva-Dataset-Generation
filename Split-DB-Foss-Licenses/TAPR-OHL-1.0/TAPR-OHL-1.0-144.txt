@@ -1,0 +1,1 @@
+      * Include this document in a file named LICENSE (with the appropriate extension) that is included in the documentation package.

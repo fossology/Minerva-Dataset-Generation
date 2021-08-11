@@ -1,0 +1,1 @@
+Copyright (c) 1995-2000 by the Hypersonic SQL Group.\r\nAll rights reserved.

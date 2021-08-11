@@ -1,0 +1,1 @@
+   "FOSS Notice" means a notice placed by DigiRule Solutions in a copy of the Client Libraries stating that such copy of the Client Libraries may be distributed under DigiRule Solutions's or FOSS License Exception.

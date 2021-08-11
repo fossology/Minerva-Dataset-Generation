@@ -1,0 +1,1 @@
+   c) give non-standard binaries non-standard names, with instructions on where to get the original software distribution.

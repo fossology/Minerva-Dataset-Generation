@@ -1,0 +1,1 @@
+Logiciel: d\xc3\xa9signe le logiciel sous sa forme de Code Objet et/ou de Code Source et le cas \xc3\xa9ch\xc3\xa9ant sa documentation, dans leur \xc3\xa9tat au moment de l'acceptation du

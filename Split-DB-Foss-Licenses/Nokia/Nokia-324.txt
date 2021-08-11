@@ -1,0 +1,1 @@
+"Original Software" shall mean the Source Code of computer software code which is described in the Source Code notice required by Exhibit A as Original Software, and which, at the time of its release under this License is not already Covered Software governed by this License.

@@ -1,0 +1,1 @@
+         Network Access to the Notices and Source Code may be provided by You or by a third party, such as a public software repository, and must persist during the same period in which You exercise any of the permissions granted to You under this License and for at least one year thereafter.

@@ -1,0 +1,1 @@
+1. This LICENSE AGREEMENT is between the Python Software Foundation\r\n("PSF"), and the Individual or Organization ("Licensee") accessing and\r\notherwise using this software ("Python") in source or binary form and\r\nits associated documentation.

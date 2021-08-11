@@ -1,0 +1,1 @@
+Software distributed under the License is distributed on an "AS IS" \r\nbasis, WITHOUT WARRANTY OF ANY KIND, either express or implied. See \r\nthe License for the specific language governing rights and limitations \r\nunder the License. 

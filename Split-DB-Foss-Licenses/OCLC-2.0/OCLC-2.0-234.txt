@@ -1,0 +1,1 @@
+A "Modification" to the Program is any addition to or deletion from the contents of any file of the Program and any new file that contains any part of the Program. If you make a Modification and distribute the Program externally you are a "Contributor." The distribution of the Program must be under the terms of this license including those in Section 3 below.

@@ -1,0 +1,1 @@
+==\r\n== Copyright and Licensing Information\r\n== $Id: License.txt 94670 2011-10-07 09:56:15Z johnnyw $\r\n==

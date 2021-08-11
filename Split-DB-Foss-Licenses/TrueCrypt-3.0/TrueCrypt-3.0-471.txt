@@ -1,0 +1,1 @@
+ 2. binary distributions include the above copyright notice, this list of conditions and the following disclaimer in their documentation;

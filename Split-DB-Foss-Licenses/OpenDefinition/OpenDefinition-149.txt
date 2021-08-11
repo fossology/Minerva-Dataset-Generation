@@ -1,0 +1,1 @@
+Rationale: Distributors of open-source software have the right to make their own choices about their own software.

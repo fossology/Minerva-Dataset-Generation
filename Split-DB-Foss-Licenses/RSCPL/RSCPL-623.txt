@@ -1,0 +1,1 @@
+      1.10. "Original Code" means the "Platform for Information Applications" Source Code as released under this License by RSV.

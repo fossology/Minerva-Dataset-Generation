@@ -1,0 +1,1 @@
+   "Derivative Program": means a new program combining the Software or portions thereof with other source code not governed by the terms of this License.

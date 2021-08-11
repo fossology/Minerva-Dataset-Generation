@@ -1,0 +1,1 @@
+   "FOSS Application" means a free and open source software application distributed subject to a license listed in the section below titled "FOSS License List."

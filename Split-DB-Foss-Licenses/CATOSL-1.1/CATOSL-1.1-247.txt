@@ -1,0 +1,1 @@
+Computer Associates International, Inc. (CA) believes in open source. We believe that the open source development approach can take appropriate software programs to unprecedented levels of quality, growth, and innovation. To demonstrate our continuing commitment to open source, we are releasing the Program (as defined below) under this License.

@@ -1,0 +1,1 @@
+Collaborative Virtual Workspace License (CVW) License Agreement General Redistribution of the CVW software or derived works must reproduce MITRE's copyright designation and this License in the documentation and/or other materials provided with the distribution. Copyright &copy 1994-1999 The MITRE Corporation ( target="_top">http://www.mitre.org/)

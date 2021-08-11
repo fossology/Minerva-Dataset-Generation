@@ -1,0 +1,1 @@
+Copyright (C) 2010 Fedora Project. All rights reserved.  "Red Hat" and\r\n"Fedora" are trademarks of Red Hat, Inc.  "Linux" is a registered\r\ntrademark of Linus Torvalds.  All other trademarks are the property of\r\ntheir respective owners.

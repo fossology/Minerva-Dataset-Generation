@@ -1,0 +1,1 @@
+1.5 "Processor" means a single, physical chip that houses no more than the number of processor cores as defined by the description of the Software licensed, and set forth in the license portal or applicable documentation for the Software.

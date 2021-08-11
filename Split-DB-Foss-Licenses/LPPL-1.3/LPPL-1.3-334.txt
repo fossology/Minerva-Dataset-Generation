@@ -1,0 +1,1 @@
+The Work changes from status `maintained' to `unmaintained' if there\r\nis no Current Maintainer, or the person stated to be Current\r\nMaintainer of the work cannot be reached through the indicated means\r\nof communication for a period of six months, and there are no other\r\nsignificant signs of active maintenance.

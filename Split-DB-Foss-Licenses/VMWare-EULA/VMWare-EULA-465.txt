@@ -1,0 +1,1 @@
+3.5 Licenses required for third-party software. The Software enables you to run multiple instances of third-party guest operating systems and application programs. You are responsible for obtaining and complying with any licenses necessary to operate any such third-party software, including Guest Operating Systems and/or application programs.

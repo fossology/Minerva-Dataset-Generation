@@ -1,0 +1,1 @@
+   - You may distribute modified versions of files with filename extension `.fd' (LaTeX font definition files) under the standard conditions of the LPPL as described above. You may also distribute such modified LaTeX font definition files with their original names provided that:

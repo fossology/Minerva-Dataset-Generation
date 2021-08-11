@@ -1,0 +1,1 @@
+9.4\tAny Program, Software, or modification thereof copied or distributed by You, that employs any cryptographic or other security, privacy, confidentiality, authenticity, and/or trust methods or techniques, including without limitation any Derivative Work that includes any changes or modifications to any cryptographic techniques in the Program, shall employ Strong Cryptography.

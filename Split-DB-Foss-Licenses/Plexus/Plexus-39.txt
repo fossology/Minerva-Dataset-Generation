@@ -1,0 +1,1 @@
+   3. The name "classworlds" must not be used to endorse or promote products derived from this Software without prior written permission of The Codehaus . For written permission, please contact bob@codehaus.org .

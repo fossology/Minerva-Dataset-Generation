@@ -1,0 +1,1 @@
+   2. You don't share it outside the team developing it, other than for non-production user testing.

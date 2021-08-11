@@ -1,0 +1,1 @@
+   "Covered Code" is the source or object code of a version of Autoconf that is a covered work under this License.

@@ -1,0 +1,1 @@
+   * ImageMagick is freely available without charge;

@@ -1,0 +1,1 @@
+Licensee may modify and recompile the source code of all GUI components and examples included with the Software. Subject to prior notice to Licensor, Licensee may modify and recompile the source code of the core spell checker engine, however such a modification frees Licensor from any further technical support to Licensee.

@@ -1,0 +1,1 @@
+      2.3 "Derivative Work" means, for the purpose of the License, that portion of any work that contains the Program or the identifiable portion of a work that is derived from the Program, either verbatim or with modifications and/or translated into another language, and that performs 3D graphics API operations. It does not include any other portions of a work.

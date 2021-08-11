@@ -1,0 +1,1 @@
+Python 2.4.4 license This is the official license for the Python 2.4 release: A

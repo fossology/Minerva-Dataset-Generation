@@ -1,0 +1,1 @@
+The Original Code is Mozilla Communicator client code, released March 31, 1998.

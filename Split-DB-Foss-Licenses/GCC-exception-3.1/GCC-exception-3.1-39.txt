@@ -1,0 +1,1 @@
+   "GPL-compatible Software" is software whose conditions of propagation, modification and use would permit combination with GCC in accord with the license of GCC.

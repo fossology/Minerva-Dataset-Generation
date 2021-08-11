@@ -1,0 +1,1 @@
+The FLTK library and included programs are provided under the terms of the GNU Library General Public License (LGPL) with the following exceptions:

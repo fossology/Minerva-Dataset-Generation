@@ -1,0 +1,1 @@
+     1.9. "Modifications" means any addition to or deletion\r\nfrom the substance or structure of either the Original Code\r\nor any previous Modifications. When Covered Code is released\r\nas a series of files, a Modification is:

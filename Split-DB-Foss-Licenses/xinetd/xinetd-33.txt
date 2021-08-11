@@ -1,0 +1,1 @@
+   2. The author of the modifications will include his/her name by appending it along with the new version number to this file and will be responsible for any wrong behavior of the modified software.

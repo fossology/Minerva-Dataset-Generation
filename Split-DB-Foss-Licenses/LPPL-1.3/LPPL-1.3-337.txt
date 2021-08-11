@@ -1,0 +1,1 @@
+ 1.  Make a reasonable attempt to trace the Current Maintainer (and\r\n     the Copyright Holder, if the two differ) through the means of\r\n     an Internet or similar search.

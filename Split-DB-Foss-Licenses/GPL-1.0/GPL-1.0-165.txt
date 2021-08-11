@@ -1,0 +1,1 @@
+    c) accompany it with the information you received as to where the\r\n    corresponding source code may be obtained.  (This alternative is\r\n    allowed only for noncommercial distribution and only if you\r\n    received the program in object code or executable form alone.)

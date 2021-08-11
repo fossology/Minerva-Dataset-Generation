@@ -1,0 +1,1 @@
+II.2. Endorsements. The names "InterBase," "ISC," and "IB" must not be used to endorse or promote Contributor Versions or Larger Works without the prior written permission of Interbase.

@@ -1,0 +1,1 @@
+  For the developers' and authors' protection, the GPL clearly explains\r\nthat there is no warranty for this free software.  For both users' and\r\nauthors' sake, the GPL requires that modified versions be marked as\r\nchanged, so that their problems will not be attributed erroneously to\r\nauthors of previous versions.

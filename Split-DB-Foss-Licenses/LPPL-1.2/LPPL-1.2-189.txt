@@ -1,0 +1,1 @@
+   5. You must change any identification string in the file to indicate clearly that the modified file is not part of The Program.

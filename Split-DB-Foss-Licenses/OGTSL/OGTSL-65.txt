@@ -1,0 +1,1 @@
+If you find a bug in one of the standards mode test cases, please let us know so we can feed this back into the original, and also raise any specification issues with the appropriate bodies (for example the POSIX committees).

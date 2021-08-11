@@ -1,0 +1,1 @@
+Ce contrat est une licence de logiciel libre dont l'objectif est de conf\xc3\xa9rer aux utilisateurs la libert\xc3\xa9 de modification et de redistribution du logiciel r\xc3\xa9gi par cette licence dans le cadre d'un mod\xc3\xa8le de diffusion \xc2\xabopen source\xc2\xbb.

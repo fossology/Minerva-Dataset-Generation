@@ -1,0 +1,1 @@
+    a. The name of Your Product (or of Your modified version of This Product) must not contain the name TrueCrypt (for example, the following names are not allowed: TrueCrypt, TrueCrypt+, TrueCrypt Professional, iTrueCrypt, etc.) nor any other names confusingly similar to the name TrueCrypt (e.g., True-Crypt, True Crypt, TruKrypt, etc.)

@@ -1,0 +1,1 @@
+Module Dynamique: d\xc3\xa9signe tout Module, cr\xc3\xa9\xc3\xa9 par le Contributeur, ind\xc3\xa9pendant du Logiciel, tel que ce Module et le Logiciel sont sous forme de deux ex\xc3\xa9cutables ind\xc3\xa9pendants qui s'ex\xc3\xa9cutent dans un espace d'adressage ind\xc3\xa9pendant, l'un appelant l'autre au moment de leur ex\xc3\xa9cution.

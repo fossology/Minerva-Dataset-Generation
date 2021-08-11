@@ -1,0 +1,1 @@
+Zimbra Public License, Version 1.3 (ZPL) This Zimbra Public License (this "Agreement") is a legal agreement that describes the terms under which VMware, Inc., a Delaware corporation having its principal place of business at 3401 Hillview Avenue, Palo Alto, California 94304 ("VMware") will provide software to you via download or otherwise ("Software")

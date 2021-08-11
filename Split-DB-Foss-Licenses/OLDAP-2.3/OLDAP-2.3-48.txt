@@ -1,0 +1,1 @@
+OpenLDAP is a trademark of the OpenLDAP Foundation.

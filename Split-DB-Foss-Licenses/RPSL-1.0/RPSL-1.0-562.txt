@@ -1,0 +1,1 @@
+      1.8. "Interface" means interfaces, functions, properties, class definitions, APIs, header files, GUIDs, V-Tables, and/or protocols allowing one piece of software, firmware or hardware to communicate or interoperate with another piece of software, firmware or hardware.

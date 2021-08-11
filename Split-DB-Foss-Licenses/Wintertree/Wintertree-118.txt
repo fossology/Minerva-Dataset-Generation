@@ -1,0 +1,1 @@
+8.1 Licensee shall indemnify and defend against any and all claims, including claims by third parties or employees of Licensee, which arise directly or indirectly out of Licensee's use or operation of the Software Development Kit or Redistributable Software.

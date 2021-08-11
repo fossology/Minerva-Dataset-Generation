@@ -1,0 +1,1 @@
+    b) The work must carry prominent notices stating that it is\r\n    released under this License and any conditions added under section\r\n    7.  This requirement modifies the requirement in section 4 to\r\n    "keep intact all notices".

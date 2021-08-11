@@ -1,0 +1,1 @@
+Artistic license From Perl 5.8.0

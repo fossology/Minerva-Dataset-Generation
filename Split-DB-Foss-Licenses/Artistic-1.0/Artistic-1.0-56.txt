@@ -1,0 +1,1 @@
+"Package" refers to the collection of files distributed by the Copyright Holder, and derivatives of that collection of files created through textual modification.

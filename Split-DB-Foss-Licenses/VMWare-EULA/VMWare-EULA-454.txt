@@ -1,0 +1,1 @@
+1.11 "Virtual Machine" means an instance of a Guest Operating System and any application programs installed thereon, running on a computing device on which the Software is installed, or suspended to disk or any other storage media accessible by the computing device.

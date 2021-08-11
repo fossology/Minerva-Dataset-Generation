@@ -1,0 +1,1 @@
+   7. C or perl subroutines supplied by you and linked into this Package shall not be considered part of this Package.

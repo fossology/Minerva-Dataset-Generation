@@ -1,0 +1,1 @@
+libpng versions 0.89, June 1996, through 0.96, May 1997, are

@@ -1,0 +1,1 @@
+      Cygnus and logo - This License does not grant any\r\nrights to use the trademark Cygnus, the Cygnus logo,\r\neCos logo, even if such marks are included in the Original\r\nCode. You may contact Cygnus for permission to display the\r\nCygnus and eCos marks in either the documentation or the\r\nExecutable version beyond that required in Exhibit B.

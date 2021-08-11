@@ -1,0 +1,1 @@
+1.10 "VMware Tools" means a suite of utilities and drivers that can be installed in Guest Operating System to enhance the performance and functionality of your Guest Operating System when running in a VMware virtual machine.

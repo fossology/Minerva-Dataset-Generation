@@ -1,0 +1,1 @@
+B) You must, on request, make a complete package including the complete source code of Your Software (as defined in the GNU General Public License version 2, section 3, but excluding anything excluded by the special exception in the same section) available to Trolltech under the same license as that granted to other recipients of the source code of Your Software.

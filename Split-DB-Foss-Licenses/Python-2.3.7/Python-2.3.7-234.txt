@@ -1,0 +1,1 @@
+\r\nBEOPEN.COM LICENSE AGREEMENT FOR PYTHON 2.0\r\n-------------------------------------------

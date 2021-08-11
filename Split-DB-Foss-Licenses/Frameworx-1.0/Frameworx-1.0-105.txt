@@ -1,0 +1,1 @@
+         (ii) include, in each file containing any portion or element of the Frameworx Code Base, the following identifying legend: This file contains software that has been made available under The Frameworx Open License 1.0. Use and distribution hereof are subject to the restrictions set forth therein.

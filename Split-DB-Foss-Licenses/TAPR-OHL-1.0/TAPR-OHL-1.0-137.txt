@@ -1,0 +1,1 @@
+   * You may distribute unmodified documentation, but you must include the complete package as you received it.

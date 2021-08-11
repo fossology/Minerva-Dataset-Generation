@@ -1,0 +1,1 @@
+   1.6 This Agreement does not apply to software, firmware, or code loaded into programmable devices which may be used in conjunction with Documentation or Products. Such software is subject to the license terms established by its copyright holder(s).

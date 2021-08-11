@@ -1,0 +1,1 @@
+   "Original Code": means (a) the source code of the software Open CASCADE Technology originally made available by the Initial Developer under this License, including the source code of any updates or upgrades of the Original Code and (b) the object code compiled from such source code and originally made available by Initial Developer under this License.

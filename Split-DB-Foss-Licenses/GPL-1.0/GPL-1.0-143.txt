@@ -1,0 +1,1 @@
+ Copyright (C) 1989 Free Software Foundation, Inc.\r\n                    51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA

@@ -1,0 +1,1 @@
+1.2. ''Contributor Version'' means the combination of the Original Code, prior Modifications used by a Contributor, and the Modifications made by that particular Contributor.

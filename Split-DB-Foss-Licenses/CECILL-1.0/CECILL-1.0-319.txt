@@ -1,0 +1,1 @@
+Logiciel Initial: d\xc3\xa9signe le Logiciel sous sa forme de Code Source et de Code Objet et le cas \xc3\xa9ch\xc3\xa9ant sa documentation, dans leur \xc3\xa9tat au moment de leur premi\xc3\xa8re diffusion sous les termes du Contrat.

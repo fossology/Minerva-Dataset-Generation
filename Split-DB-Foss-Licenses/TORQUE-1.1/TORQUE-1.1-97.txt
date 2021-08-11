@@ -1,0 +1,1 @@
+   2. Any Redistribution in binary form must reproduce the above copyright notice and the acknowledgment contained in paragraph 4, this list of conditions and the disclaimer contained in paragraph 5 in the documentation and/or other materials provided with the distribution.

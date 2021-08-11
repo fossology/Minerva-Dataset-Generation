@@ -1,0 +1,1 @@
+ARPHIC PUBLIC LICENSE Copyright (C) 1999 Arphic Technology Co., Ltd. 11Fl No.168, Yung Chi Rd., Taipei, 110 Taiwan All rights reserved except as specified below. Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is forbidden. Preamble The licenses for most software are designed to take away your freedom to share and change it

@@ -1,0 +1,1 @@
+"THE BEER-WARE LICENSE" (Revision 42): <phk@FreeBSD.ORG> wrote this file

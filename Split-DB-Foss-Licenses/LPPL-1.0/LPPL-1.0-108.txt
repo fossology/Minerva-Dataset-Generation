@@ -1,0 +1,1 @@
+   * You rename the file before you make any changes to it, unless the file explicitly says that renaming is not required. Any such changed files must be distributed under a license that forbids distribution of those files, and any files derived from them, under the names used by the original files in the distribution of The Program.

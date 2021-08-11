@@ -1,0 +1,1 @@
+This software is copyright (C) 1991-1998, Thomas G. Lane. All Rights Reserved except as specified below.

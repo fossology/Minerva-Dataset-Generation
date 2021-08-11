@@ -1,0 +1,1 @@
+Permission is hereby also granted to distribute binary programs which depend on this package, provided that:

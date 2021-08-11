@@ -1,0 +1,1 @@
+% This program consists of the files pig.dtx and pig.ins
