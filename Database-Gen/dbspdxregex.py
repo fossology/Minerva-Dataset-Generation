@@ -59,7 +59,7 @@ def main(dictionary,spdxregex):
                     part = str(contents[i])
                     for ind in range(len(expansion_)):
                         filegen+=1                            
-                        with open(os.path.join('C:/Users/Documents/GSOC21/dbspdx','{}-{}.txt'.format(key,filegen)), 'w') as o1:
+                        with open(os.path.join('{}-{}.txt'.format(key,filegen)), 'w') as o1:
                             o1.write(part+" "+expansion_[ind])
                 except:
                     break
