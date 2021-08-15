@@ -200,6 +200,7 @@ def main(data,spdxregex,errorlist):
                 generated_text = generated_text.lower()
                 expansion.append(generated_text)
                 expansion = list(set(expansion))
+                
         filegen = 0
         expansion_ = []
         expansion_ = regex_expansion(prevsen,expansion,latersen)
