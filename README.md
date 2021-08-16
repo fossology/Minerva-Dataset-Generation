@@ -16,23 +16,26 @@ And to use multiple cores to validate files (here I am using 3 cores) :
  sudo nomos -J -d <folder_with_files> -n 3
 ```
 
-### <img align="left" width=50px alt="Download" src="static\images\download.png" /> Download licenses from JSON to txt
+## <img align="left" width=50px alt="Download" src="static\images\download.png" /> Download licenses from JSON to txt
 
-
-SPDX recent release -> [SPDX](https://spdx.org/licenses/licenses.json)
+### SPDX recent release -> [SPDX](https://spdx.org/licenses/licenses.json)
 ```
- cd Download-licenses-Script
- python spdx.py
+ python ./Download-licenses-Script/spdx.py
 ```
-SPDX-exceptions recent release -> [SPDX-exceptions](https://spdx.org/licenses/exceptions.json)
+### SPDX-exceptions recent release -> [SPDX-exceptions](https://spdx.org/licenses/exceptions.json)
 ```
- cd Download-licenses-Script
- python exceptions.py
+ python ./Download-licenses-Script/exceptions.py
 ```
-Licenses in Fossology Database -> [licenseRef](https://raw.githubusercontent.com/fossology/fossology/master/install/db/licenseRef.json)
+### Licenses in Fossology Database -> [licenseRef](https://raw.githubusercontent.com/fossology/fossology/master/install/db/licenseRef.json)
 ```
- cd Download-licenses-Script
- python database-foss.py
+ python ./Download-licenses-Script/database-foss.py
 ```
 
+## Initial Split - Using Sliding Window Approach
+Before Adding Regex to licenses, Initial split is being done. To maintain consistency, sliding window approach is being followed. For ex- taking combination of 3, splitting will be done as shown below -
 
+<img src="static\images\slidingwindow.PNG" alt="sliding-window" width="700"/>
+
+```
+ python ./Script-Initial-Split/initial_split.py
+```
