@@ -3,7 +3,7 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/50830709/125133165-0e014000-e123-11eb-9890-3510887deaac.JPG" alt="project-overview" width="700"/>
+<img src="static\images\project_overview.png" alt="project-overview" width="700"/>
 
 
 ### Validating Dataset Generated Using NOMOS in Fossology
