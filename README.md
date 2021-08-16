@@ -16,7 +16,7 @@ And to use multiple cores to validate files (here I am using 3 cores) :
  sudo nomos -J -d <folder_with_files> -n 3
 ```
 
-### <img align="left" width=100px alt="Download" src="static\images\download.png" /> Download licenses from JSON to txt
+### <img align="left" width=10px alt="Download" src="static\images\download.png" /> Download licenses from JSON to txt
 SPDX recent release -> https://spdx.org/licenses/licenses.json
 ```
  cd Download-licenses-Script
