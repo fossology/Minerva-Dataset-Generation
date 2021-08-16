@@ -25,6 +25,8 @@ def extract_exceptions():
   There are 41 files of SPDX exception in licenseListVersion: 3.13
   url of latest SPDX Exception release = https://spdx.org/licenses/exceptions.json
   """
+  download = "..\\Original-SPDX-Dataset"
+  os.makedirs(download, exist_ok=True)
   r = requests.get(url='https://spdx.org/licenses/exceptions.json')
   data = r.json()
 
@@ -33,7 +35,7 @@ def extract_exceptions():
     license_text = requests.get(url=license["reference"])
     license_dict = license_text.json()
     
-    with open(os.path.join('{}.txt'.format(license["licenseExceptionId"])), 'w') as o1:
+    with open(download+'\\'+license["licenseExceptionId"], 'w') as o1:
           o1.write(license_dict["licenseExceptionText"])
 
 if __name__ == "__main__":
