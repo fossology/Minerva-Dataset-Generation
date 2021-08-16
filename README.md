@@ -18,17 +18,18 @@ And to use multiple cores to validate files (here I am using 3 cores) :
 
 ### <img align="left" width=50px alt="Download" src="static\images\download.png" /> Download licenses from JSON to txt
 
-SPDX recent release -> https://spdx.org/licenses/licenses.json
+
+SPDX recent release -> [SPDX](https://spdx.org/licenses/licenses.json)
 ```
  cd Download-licenses-Script
  python spdx.py
 ```
-SPDX-exceptions recent release -> https://spdx.org/licenses/exceptions.json
+SPDX-exceptions recent release -> [SPDX-exceptions](https://spdx.org/licenses/exceptions.json)
 ```
  cd Download-licenses-Script
  python exceptions.py
 ```
-Licenses in Fossology Database -> https://raw.githubusercontent.com/fossology/fossology/master/install/db/licenseRef.json
+Licenses in Fossology Database -> [licenseRef](https://raw.githubusercontent.com/fossology/fossology/master/install/db/licenseRef.json)
 ```
  cd Download-licenses-Script
  python database-foss.py
