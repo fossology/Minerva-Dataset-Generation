@@ -32,7 +32,7 @@ And to use multiple cores to validate files (here I am using 3 cores) :
 ```
 
 ## Initial Split - Using Sliding Window Approach
-Before Adding Regex to licenses, Initial split is being done. To maintain consistency, sliding window approach is being followed. For ex- taking combination of 3, splitting will be done as shown below -
+Before Adding Regex to licenses and essential keywords, Initial split is being carried out. To maintain consistency, sliding window approach is being followed for the splitting. For ex- taking combination of 4, splitting on a text file will be done as shown below -
 
 <img src="static\images\slidingwindow.PNG" alt="sliding-window" width="700"/>
 
