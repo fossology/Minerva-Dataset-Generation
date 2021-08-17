@@ -1,0 +1,4 @@
+intxeger==0.1.1
+requests==2.25.1
+numpy==1.18.2
+pandas==1.2.4

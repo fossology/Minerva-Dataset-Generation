@@ -19,80 +19,48 @@ import os
 from os import walk
 from os.path import splitext
 from os.path import join
-from preprocessing import *
-from regex_handling import *
-from ngram import *
+#import sys
+#sys.path.append('D:/Projects/Minerva-Dataset-Generation/ngram')
+from pre import *
+from markov_ import *
+from add import read_directory, file_vocab, file_regex
 import argparse
 import pandas as pd
 import random
-
-def read_directory(path):
-    barlist = list()
-    for root, dirs, files in os.walk(path):
-      for f in files:
-        if splitext(f)[1].lower() == ".txt":
-          barlist.append(os.path.join(root, f))
-    #print(barlist)
-    return barlist
-
-def file_vocab(filename):
-    vfile = "..\\Original-SPDX-Dataset\\" + filename + '.txt'
-    # licensename = filepath.split('\\')[-1]
-    with open(vfile, 'r', encoding = 'unicode_escape') as f:
-        vocab = f.read()
-    return vocab
-
-def file_regex(filepath, regexcsv):
-    licensename = '\\'.join(filepath.split('\\')[0:-1]).split('\\')[-1]
-    df = pd.read_csv(regexcsv)
-    var = df.loc[df.Licenses==licensename,'Regex']
-    if var.shape[0] == 0:
-        return ""
-    else:
-        return var.values[0]
 
 def main(path, regexcsv):
 
     split = ".\\SPDX"
     os.makedirs(split, exist_ok=True)
+    
     files = read_directory(path)
-
     for file in files:
         filename = '\\'.join(file.split('\\')[0:-1]).split('\\')[-1]
 
         with open(file, 'r', encoding = 'unicode_escape') as f:
             content = f.read()
+        
         vocabulary = file_vocab(filename)
         
         regex = file_regex(file, regexcsv)
         regex = regex.strip().replace('"', '')
-
+        
         if len(regex)==0:
-            # print('Regex not found for -> ', filename)
             continue
+
         os.makedirs(split+'\\'+filename, exist_ok=True)
         preregex = regex.split("(.{1,32} (AND|OR)){1,4}")[0]
         secregex = regex.split("(.{1,32} (AND|OR)){1,4}")[-1]
 
         expansion = []
-        for ind in range(2,8):
-            m = create_ngram_model(ind,file)
-            for i in range(1,len(vocabulary)):
-                random.seed(i)
-                generated_text = m.generate_text(np.random.randint(6,31))
-                generated_text = preprocessing_text(generated_text).lower()
-                expansion.append(generated_text)
-                expansion = list(set(expansion))
-
-        expansion_regex = regex_expansion(preregex,expansion,secregex)
-
+        expansion = regex_expansion(preregex,secregex,vocabulary)
         lst = os.listdir(split+'\\'+filename)
         count = len(lst)
-
-        for ind in range(len(expansion_regex)):
+        
+        for ind in range(len(expansion)):
             count+=1
             with open(os.path.join(split+'\\'+filename,'{}-{}.txt'.format(filename,count)), 'w', encoding = 'unicode_escape') as o1:
-                o1.write(content + '.' + expansion_regex[ind])
+                o1.write(content + '.' + expansion[ind])
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
