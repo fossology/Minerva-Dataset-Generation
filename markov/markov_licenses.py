@@ -19,11 +19,12 @@ import os
 from os import walk
 from os.path import splitext
 from os.path import join
-#import sys
-#sys.path.append('D:/Projects/Minerva-Dataset-Generation/ngram')
+import sys
+sys.path.append('regex/ngram')
 from pre import *
+#from preprocessing import preprocessing_text
 from markov_ import *
-from add import read_directory, file_vocab, file_regex
+from helper import read_directory, file_vocab, file_regex
 import argparse
 import pandas as pd
 import random

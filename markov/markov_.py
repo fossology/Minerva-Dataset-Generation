@@ -21,8 +21,7 @@ import intxeger
 import random
 from collections import defaultdict
 #import sys
-# sys.path.append('D:/Projects/Minerva-Dataset-Generation/ngram')
-# from regex_handling import licensestatement_
+# sys.path.append('ngram/ngram')
 
 def regex_expansion(prevsen,latersen,text):
   result = []
