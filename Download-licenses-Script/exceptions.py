@@ -16,7 +16,7 @@
  51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 """
 
-import requests
+from urllib.request import urlopen
 import json
 import os
 
@@ -27,16 +27,18 @@ def extract_exceptions():
   """
   download = "..\\Original-SPDX-Dataset"
   os.makedirs(download, exist_ok=True)
-  r = requests.get(url='https://spdx.org/licenses/exceptions.json')
-  data = r.json()
+  url = 'https://spdx.org/licenses/exceptions.json'
+  response = urlopen(url)
+  data_json = json.loads(response.read())
 
-  for license in data["exceptions"]:
+  for license in data_json["exceptions"]:
     license["reference"] = license["reference"].replace("./","https://spdx.org/licenses/",1)
-    license_text = requests.get(url=license["reference"])
-    license_dict = license_text.json()
+    url2 = license["reference"]
+    response2 = urlopen(url2)
+    data_json2 = json.loads(response2.read())
     
     with open(download+'\\'+license["licenseExceptionId"], 'w') as o1:
-          o1.write(license_dict["licenseExceptionText"])
+          o1.write(data_json2["licenseExceptionText"])
 
 if __name__ == "__main__":
     extract_exceptions()

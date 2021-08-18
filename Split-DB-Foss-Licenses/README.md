@@ -4,9 +4,7 @@ Initially Split is being done on Original [SPDXlicenses](Original-SPDX-Dataset) 
 
 <img src="static\images\slidingwindow.PNG" alt="sliding-window" width="700"/>
 
-The CLI command to do initial split is:
-
-*Make sure to add directory path that need to be splitted.*
+*Add directory path that need to be splitted otherwise it will be splitting on default directory that has been provided.*
 
 ```
  python ./Script-Initial-Split/initial_split.py

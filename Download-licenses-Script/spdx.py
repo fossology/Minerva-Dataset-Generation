@@ -16,7 +16,7 @@
  51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 """
 
-import requests
+from urllib.request import urlopen
 import json
 import os
 
@@ -27,15 +27,17 @@ def extract_spdx():
   """  
   download = "..\\Original-SPDX-Dataset"
   os.makedirs(download, exist_ok=True)
-  r = requests.get(url='https://spdx.org/licenses/licenses.json')
-  data = r.json()
-  for license in data["licenses"]:
-    print(license["licenseId"])
-    license_text = requests.get(url=license["detailsUrl"])
-    license_dict = license_text.json()
+  url = 'https://spdx.org/licenses/licenses.json'
+  response = urlopen(url)
+  data_json = json.loads(response.read())
+
+  for license in data_json["licenses"]:
+    url2 = 'https://spdx.org/licenses/licenses.json'
+    response2 = urlopen(url2)
+    data_json2 = json.loads(response2.read())
 
     with open(download+'\\'+license["licenseId"], 'w', encoding='utf-8') as o1:
-          o1.write(license_dict["licenseText"])
+          o1.write(data_json2["licenseText"])
 
 if __name__ == "__main__":
     extract_spdx()

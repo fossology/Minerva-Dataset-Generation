@@ -16,16 +16,17 @@
  51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 """
 
-import requests
+from urllib.request import urlopen
 import json
 import os
 
 def main():
     download = "..\\Original-DB-Foss-Dataset"
     os.makedirs(download, exist_ok=True)
-    r = requests.get(url='https://raw.githubusercontent.com/fossology/fossology/master/install/db/licenseRef.json')
-    data = r.json()
-    for licenses in data:
+    url = 'https://raw.githubusercontent.com/fossology/fossology/master/install/db/licenseRef.json'
+    response = urlopen(url)
+    data_json = json.loads(response.read())
+    for licenses in data_json:
         with open(download+'\\'+licenses["rf_shortname"], 'w', encoding ='utf-8') as o1:
                 o1.write(licenses["rf_text"])
 
