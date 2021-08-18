@@ -31,14 +31,13 @@ def read_directory(path):
     return barlist
 
 def file_vocab(filename):
-    vfile = "..\\Original-SPDX-Dataset\\" + filename + '.txt'
-    # licensename = filepath.split('\\')[-1]
+    vfile = os.path.join("../Original-SPDX-Dataset",filename + '.txt')
     with open(vfile, 'r', encoding = 'unicode_escape') as f:
         vocab = f.read()
     return vocab
 
 def file_regex(filepath, regexcsv):
-    licensename = '\\'.join(filepath.split('\\')[0:-1]).split('\\')[-1]
+    licensename = os.path.sep.join(filepath.split(os.path.sep)[0:-1]).split(os.path.sep)[-1]
     df = pd.read_csv(regexcsv)
     var = df.loc[df.Licenses==licensename,'Regex']
     if var.shape[0] == 0:

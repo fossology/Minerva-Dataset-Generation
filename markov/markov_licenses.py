@@ -19,24 +19,23 @@ import os
 from os import walk
 from os.path import splitext
 from os.path import join
-import sys
-sys.path.append('regex/ngram')
+#import sys
+#sys.path.append('regex/ngram')
 from pre import *
-#from preprocessing import preprocessing_text
-from markov_ import *
+from markov import *
 from helper import read_directory, file_vocab, file_regex
 import argparse
 import pandas as pd
 import random
+import pathlib
 
 def main(path, regexcsv):
 
-    split = ".\\SPDX"
-    os.makedirs(split, exist_ok=True)
+    pathlib.Path("markovfiles").mkdir(parents=True, exist_ok=True)
     
     files = read_directory(path)
     for file in files:
-        filename = '\\'.join(file.split('\\')[0:-1]).split('\\')[-1]
+        filename = os.path.sep.join(file.split(os.path.sep)[0:-1]).split(os.path.sep)[-1]
 
         with open(file, 'r', encoding = 'unicode_escape') as f:
             content = f.read()
@@ -49,18 +48,18 @@ def main(path, regexcsv):
         if len(regex)==0:
             continue
 
-        os.makedirs(split+'\\'+filename, exist_ok=True)
+        os.makedirs(os.path.join("markovfiles",filename), exist_ok=True)
         preregex = regex.split("(.{1,32} (AND|OR)){1,4}")[0]
         secregex = regex.split("(.{1,32} (AND|OR)){1,4}")[-1]
 
         expansion = []
         expansion = regex_expansion(preregex,secregex,vocabulary)
-        lst = os.listdir(split+'\\'+filename)
+        lst = os.listdir(os.path.join("markovfiles",filename))
         count = len(lst)
         
         for ind in range(len(expansion)):
             count+=1
-            with open(os.path.join(split+'\\'+filename,'{}-{}.txt'.format(filename,count)), 'w', encoding = 'unicode_escape') as o1:
+            with open(os.path.join(os.path.join(os.path.join("markovfiles",filename),'{}-{}.txt'.format(filename,count))), 'w', encoding = 'unicode_escape') as o1:
                 o1.write(content + '.' + expansion[ind])
 
 if __name__ == "__main__":
