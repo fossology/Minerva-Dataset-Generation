@@ -53,18 +53,13 @@ def file_regex(filepath, regexcsv):
         return var.values[0]
 
 def main(path, regexcsv):
-
     pathlib.Path("ngramfiles").mkdir(parents=True, exist_ok=True)
-
     files = read_directory(path)
-
     for file in files:
         filename = os.path.sep.join(file.split(os.path.sep)[0:-1]).split(os.path.sep)[-1]
-
         with open(file, 'r', encoding = 'unicode_escape') as f:
             content = f.read()
         vocabulary = file_vocab(filename)
-        
         regex = file_regex(file, regexcsv)
         regex = regex.strip().replace('"', '')
 
@@ -86,7 +81,6 @@ def main(path, regexcsv):
                 expansion = list(set(expansion))
 
         expansion_regex = regex_expansion(preregex,expansion,secregex)
-
         lst = os.listdir(os.path.join("ngramfiles",filename))
         count = len(lst)
 

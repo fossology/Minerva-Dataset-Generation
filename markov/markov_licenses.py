@@ -30,18 +30,14 @@ import random
 import pathlib
 
 def main(path, regexcsv):
-
     pathlib.Path("markovfiles").mkdir(parents=True, exist_ok=True)
-    
     files = read_directory(path)
     for file in files:
         filename = os.path.sep.join(file.split(os.path.sep)[0:-1]).split(os.path.sep)[-1]
-
         with open(file, 'r', encoding = 'unicode_escape') as f:
             content = f.read()
         
         vocabulary = file_vocab(filename)
-        
         regex = file_regex(file, regexcsv)
         regex = regex.strip().replace('"', '')
         
