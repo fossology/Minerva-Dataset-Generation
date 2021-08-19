@@ -159,7 +159,7 @@ def main(dictionary,ltregex):
                         else:
                                 clean_expansion = expansion_[ind] 
                         filegen+=1                            
-                        with open(os.path.join('C:/Users/Documents/GSOC21/dblt','{}-{}.txt'.format(key,filegen)), 'w') as o1:
+                        with open('{}-{}.txt'.format(key,filegen), 'w') as o1:
                             o1.write(part+" "+clean_expansion)
                 except:
                     break
@@ -301,10 +301,11 @@ def create_ngram_model(n, text):
     return m
 
 if __name__ == "__main__":
-    with open("C:/Users/Documents/GSOC21/extract_header_text/database_licenses.txt", "r") as data:
+    # Specify paths
+    with open("database_licenses.txt", "r") as data:
         dictionary = ast.literal_eval(data.read())
 
-    ltregex = pd.read_csv("C:/Users/Documents/GSOC21/validation_/LT_regex.csv")
+    ltregex = pd.read_csv("STRINGSin-Regex-Extraction\LTRegex.csv")
     res1 = dict(list(dictionary.items())[:len(dictionary)//3])
     res2 = dict(list(dictionary.items())[len(dictionary)//3:(2*len(dictionary)//3)])
     res3 = dict(list(dictionary.items())[(2*len(dictionary)//3):])

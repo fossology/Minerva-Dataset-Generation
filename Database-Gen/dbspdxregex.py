@@ -219,10 +219,10 @@ def create_ngram_model(n, text):
     return m
 
 if __name__ == "__main__":
-    with open("C:/Users/Documents/GSOC21/extract_header_text/database_licenses.txt", "r") as data:
+    with open("database_licenses.txt", "r") as data:
         dictionary = ast.literal_eval(data.read())
 
-    spdxregex = pd.read_csv("C:/Users/Documents/Downloads/SPDX_regex.csv")
+    spdxregex = pd.read_csv("STRINGSin-Regex-Extraction\SPDXRegex.csv")
     res1 = dict(list(dictionary.items())[:len(dictionary)//3])
     res2 = dict(list(dictionary.items())[len(dictionary)//3:(2*len(dictionary)//3)])
     res3 = dict(list(dictionary.items())[(2*len(dictionary)//3):])

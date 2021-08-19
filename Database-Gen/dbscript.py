@@ -105,7 +105,7 @@ def main(dictionary,spdxregex):
                     part = str(contents[i])
                     for ind in range(len(expansion_)):
                         filegen+=1                            
-                        with open(os.path.join('C:/Users/Documents/GSOC21/db-foss','{}-{}.txt'.format(key,filegen)), 'w') as o1:
+                        with open('{}-{}.txt'.format(key,filegen), 'w') as o1:
                             o1.write(part+" "+expansion_[ind])
                 except:
                     break
@@ -245,10 +245,10 @@ def create_ngram_model(n, text):
     return m
 
 if __name__ == "__main__":
-    with open("C:/Users/Documents/GSOC21/SPDX/spdxlatest_version.txt", "r") as data:
+    with open("Database-Gen\spdxlatest_version.txt", "r") as data:
         dictionary = ast.literal_eval(data.read())
 
-    spdxregexdata = pd.read_csv("C:/Users/Documents/GSOC21/SPDX/spdxlatest_version.csv")
+    spdxregexdata = pd.read_csv("STRINGSin-Regex-Extraction\SPDXRegex.csv")
     spdxregex = spdxregexdata["licenseRegex"]
     res1 = dict(list(dictionary.items())[:len(dictionary)//3])
     res2 = dict(list(dictionary.items())[len(dictionary)//3:(2*len(dictionary)//3)])
