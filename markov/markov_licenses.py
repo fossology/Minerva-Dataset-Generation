@@ -28,10 +28,24 @@ import argparse
 import pandas as pd
 import random
 import pathlib
+import multiprocessing
 
-def main(path, regexcsv):
+def chunkIt(seq, num):
+    avg = len(seq) / float(num)
+    out = []
+    last = 0.0
+
+    while last < len(seq):
+        out.append(seq[int(last):int(last + avg)])
+        last += avg
+
+    return out
+
+def main(files, regexcsv):
+
     pathlib.Path("markovfiles").mkdir(parents=True, exist_ok=True)
-    files = read_directory(path)
+    # files = read_directory(path)
+
     for file in files:
         filename = os.path.sep.join(file.split(os.path.sep)[0:-1]).split(os.path.sep)[-1]
         with open(file, 'r', encoding = 'unicode_escape') as f:
@@ -70,8 +84,24 @@ if __name__ == "__main__":
         default="..\\STRINGSin-Regex-Extraction\\SPDXRegex.csv",
         help="Specify the input regex csv path",
     )
+    parser.add_argument(
+        "--cores",
+        default=1,
+        help="Specify the number of cores",
+    )
+
     args = parser.parse_args()
     inputpath = args.inputpath
     regexcsv = args.regexcsv
-    main(inputpath, regexcsv)
+    n = int(args.cores)
 
+    samples = read_directory(inputpath)
+    ls = chunkIt(samples, n)
+    list_data = []
+
+    for i in range(len(ls)):
+        list_data.append((ls[i], regexcsv))
+
+    with multiprocessing.Pool(processes=n) as pool:
+        pool.starmap(main, list_data)
+    
