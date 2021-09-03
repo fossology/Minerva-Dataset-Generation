@@ -119,7 +119,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "--cores",
         default=1,
-        help="Specify the number of cores",
+        help="Specify the number of core(s)",
     )
 
     args = parser.parse_args()
