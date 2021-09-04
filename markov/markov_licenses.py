@@ -21,7 +21,7 @@ from os.path import splitext
 from os.path import join
 #import sys
 #sys.path.append('regex/ngram')
-from pre import *
+from preprocess import *
 from markov import *
 from helper import read_directory, file_vocab, file_regex
 import argparse
