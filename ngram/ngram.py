@@ -10,11 +10,13 @@
  but WITHOUT ANY WARRANTY; without even the implied warranty of
  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  GNU General Public License for more details.
- 
+
  You should have received a copy of the GNU General Public License along
  with this program; if not, write to the Free Software Foundation, Inc.,
  51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 """
+
+
 import string
 import re
 from collections import defaultdict
@@ -22,10 +24,13 @@ from typing import List
 from preprocessing import tokenize
 import random
 
+
 def get_ngrams(n: int, tokens: list) -> list:
     tokens = (n-1)*['<START>']+tokens
-    l = [(tuple([tokens[i-p-1] for p in reversed(range(n-1))]), tokens[i]) for i in range(n-1, len(tokens))]
-    return l
+    lr = [(tuple([tokens[i-p-1] for p in reversed(range(n-1))]), tokens[i])
+          for i in range(n-1, len(tokens))]
+    return lr
+
 
 class NgramModel(object):
 

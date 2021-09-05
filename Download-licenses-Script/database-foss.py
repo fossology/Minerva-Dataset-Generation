@@ -10,7 +10,7 @@
  but WITHOUT ANY WARRANTY; without even the implied warranty of
  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  GNU General Public License for more details.
- 
+
  You should have received a copy of the GNU General Public License along
  with this program; if not, write to the Free Software Foundation, Inc.,
  51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
@@ -20,6 +20,7 @@ from urllib.request import urlopen
 import json
 import os
 
+
 def main():
     download = "..\\Original-DB-Foss-Dataset"
     os.makedirs(download, exist_ok=True)
@@ -27,8 +28,9 @@ def main():
     response = urlopen(url)
     data_json = json.loads(response.read())
     for licenses in data_json:
-        with open(download+'\\'+licenses["rf_shortname"], 'w', encoding ='utf-8') as o1:
-                o1.write(licenses["rf_text"])
+        with open(download+'\\'+licenses["rf_shortname"], 'w', encoding='utf-8') as o1:
+            o1.write(licenses["rf_text"])
+
 
 if __name__ == "__main__":
     main()
