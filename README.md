@@ -1,4 +1,4 @@
-<h1 align="center">Minerva Dataset Generation<img src="assets\wcoding.giff" width="80"></h1>
+<h1 align="center">Minerva Dataset Generation<img src="assets\wcoding.gif" width="80"></h1>
 <h2 align="center">Project Overview</h2>
 
 <p align="center">
