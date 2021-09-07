@@ -10,86 +10,101 @@
  but WITHOUT ANY WARRANTY; without even the implied warranty of
  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  GNU General Public License for more details.
- 
+
  You should have received a copy of the GNU General Public License along
  with this program; if not, write to the Free Software Foundation, Inc.,
  51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 """
 
+
 import re
 import os
 import argparse
 
-def splitter(file,dirname):
-    
+
+def splitter(file, dirname):
+
     history = []
-    with open(file, 'r', encoding= 'unicode_escape') as f:
+    with open(file, 'r', encoding='unicode_escape') as f:
         content = f.readlines()
-    # you may also want to remove whitespace characters like `\n` at the end of each line
+
+#   you may also want to remove whitespace characters
+#   like `\n` at the end of each line
+
     text = " ".join(content)
     content = text.split(". ")
     content = [x.strip() for x in content]
     para = ""
-    for comb  in range(1,len(content)):
+    for comb in range(1, len(content)):
         for i in range(0, len(content)-comb+1, comb):
-            if len(history)>1000:
+            if len(history) > 1000:
                 history = list(set(history))
-                if len(history)>1000:
+                if len(history) > 1000:
                     break
-            para = para  + " " +  content[i]
-            para = re.sub("\s\s+" , " ", para)
+            para = para + " " + content[i]
+            para = re.sub("\s\s+", " ", para)
             para = para.strip()
             if para not in history:
                 history.append(para)
     history = list(set(history))
-    generate_files(file,history,dirname)
+    generate_files(file, history, dirname)
 
-                
-def generate_files(file,history,dirname):
+
+def generate_files(file, history, dirname):
     counter = 0
     os.makedirs(dirname, exist_ok=True)
     for texts in history:
-        counter+=1
-        name = dirname + '-{}.txt'.format(counter)
-        with open(os.path.join(dirname,name), 'w', encoding= 'unicode_escape') as o1:
-                    o1.write(texts)
-    naive_approach(file,dirname,counter)
+        counter += 1
+        name = dirname + f"""-{counter}.txt"""
+        with open(os.path.join(dirname, name),
+                  'w', encoding='unicode_escape') as o1:
+            o1.write(texts)
+    naive_approach(file, dirname, counter)
 
-def naive_approach(file,dirname,counter):
+
+def naive_approach(file, dirname, counter):
     os.makedirs(dirname, exist_ok=True)
 
-    with open(file, 'r', encoding= 'unicode_escape') as f:
+    with open(file, 'r', encoding='unicode_escape') as f:
         para = sum(line.isspace() for line in f) + 1
 
-    with open(file, 'r+', encoding= 'unicode_escape') as f:
+    with open(file, 'r+', encoding='unicode_escape') as f:
         contents = f.read()
 
     content = contents.split('\n\n')
 
     for i in range(para):
         counter += 1
-        name = dirname + '-{}.txt'.format(counter)
+        name = dirname + f"""-{counter}.txt"""
         try:
-            with open(os.path.join(dirname,name), 'w', encoding= 'unicode_escape') as o1:
+            with open(os.path.join(dirname, name),
+                      'w', encoding='unicode_escape') as o1:
                 o1.write(str(content[i]))
-        except:
+
+        except EnvironmentError:
             break
 
+
 def main(path):
-    for roots, dirs, files in os.walk(path,topdown=True):
+    for roots, dirs, files in os.walk(path, topdown=True):
         for name in files:
             dirname = os.path.splitext(name)[0]
-            file = os.path.join(path,name)
-            splitter(file,dirname)    
+            file = os.path.join(path, name)
+            splitter(file, dirname)
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument('path', help='Pass a directory to find original licenses')
+    parser.add_argument(
+        'path', help='Pass a directory to find original licenses')
+
     args = parser.parse_args()
-    path = args.path
-    
-    if path.isdir():
-        main(path)
-    else:
-        print("Invalid directory")
-    
+
+    try:
+        path = args.path
+        if not os.path.isdir(path):
+            raise TypeError
+    except TypeError:
+        print("Valid directory not provided")
+
+    main(path)

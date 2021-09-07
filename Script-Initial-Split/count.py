@@ -10,7 +10,7 @@
  but WITHOUT ANY WARRANTY; without even the implied warranty of
  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  GNU General Public License for more details.
- 
+
  You should have received a copy of the GNU General Public License along
  with this program; if not, write to the Free Software Foundation, Inc.,
  51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
@@ -20,22 +20,34 @@ import os
 import pandas as pd
 import argparse
 
+
 def main(path):
     file = []
     count = []
 
     for filename in os.listdir(path):
         file.append(filename)
-        lst = os.listdir(os.path.join(path,filename)) # dir is your directory path
+        # dir is your directory path
+        lst = os.listdir(os.path.join(path, filename))
         number_files = len(lst)
-        count.append(number_files)           
+        count.append(number_files)
 
-    data = pd.DataFrame({"files":file,"count":count})
+    data = pd.DataFrame({"files": file, "count": count})
     data.to_csv("Count.csv", index=False)
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument('path', help='Pass a directory to find original licenses')
+    parser.add_argument(
+        'path', help='Pass a directory to find original licenses')
+
     args = parser.parse_args()
-    path = args.path
+
+    try:
+        path = args.path
+        if not os.path.isdir(path):
+            raise TypeError
+    except TypeError:
+        print("Valid directory not provided")
+
     main(path)
