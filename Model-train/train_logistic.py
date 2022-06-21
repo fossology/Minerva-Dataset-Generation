@@ -1,0 +1,75 @@
+"""
+ Copyright (C) 2022 Sushant Kumar (sushantmishra02102002@gmail.com)
+ SPDX-License-Identifier: GPL-2.0
+ This program is free software; you can redistribute it and/or
+ modify it under the terms of the GNU General Public License
+ version 2 as published by the Free Software Foundation.
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ 
+ You should have received a copy of the GNU General Public License along
+ with this program; if not, write to the Free Software Foundation, Inc.,
+ 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
+"""
+import pandas as pd
+import pickle
+import os
+from glob import glob
+from sklearn.feature_extraction.text import CountVectorizer, TfidfTransformer
+from sklearn.pipeline import Pipeline
+from sklearn.linear_model import LogisticRegression
+
+
+def data():
+    folders = glob("./../Split-DB-Foss-Licenses/*")
+    license_lists = []
+    for folder in folders:
+        if os.path.isdir(folder):
+            list = [os.path.join(folder, fname)
+                    for fname in os.listdir(folder)]
+            license_lists.append(list)
+
+    base_lists = []
+    for license_list in license_lists:
+        for license in license_list:
+            path = os.path.dirname(license)
+            base = os.path.basename(path)
+            base_lists.append(base)
+
+    license_texts = []
+    for license_list in license_lists:
+        for license in license_list:
+            file = open(license)
+            file_content = file.read()
+            license_texts.append(file_content)
+
+    df = pd.DataFrame({"short_name": base_lists, "text": license_texts})
+
+    df = df.sample(frac=1).reset_index(drop=True)
+    df.dropna(inplace=True)
+    return df
+
+
+def train():
+    train_data = data()
+
+    X_train = train_data.text
+    y_train = train_data.short_name
+
+    logreg = Pipeline(
+        [
+            ("vect", CountVectorizer()),
+            ("tfidf", TfidfTransformer()),
+            ("clf", LogisticRegression(n_jobs=1, C=1e5)),
+        ]
+    )
+    logreg_model = logreg.fit(X_train, y_train)
+
+    with open("./models/logreg", "wb") as f:
+        pickle.dump(logreg_model, f)
+
+
+if __name__ == "__main__":
+    train()
