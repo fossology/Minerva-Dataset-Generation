@@ -1,3 +1,3 @@
 pandas==1.2.4
-numpy==1.18.2
+numpy==1.22.0
 intxeger==0.1.1
